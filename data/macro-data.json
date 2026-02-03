@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-03T14:50:30.951Z",
+  "lastUpdate": "2026-02-03T14:52:06.143Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -241,9 +241,9 @@
         "desc": "Índice americano",
         "icon": "sp500",
         "iconClass": "fas fa-chart-line",
-        "value": "6981.38",
-        "rawValue": 6981.3798828125,
-        "change": 0.07,
+        "value": "6977.41",
+        "rawValue": 6977.41015625,
+        "change": 0.01,
         "prevClose": 6976.43994140625
       },
       {
@@ -251,9 +251,9 @@
         "desc": "Índice do Dólar",
         "icon": "dxy",
         "iconClass": "fas fa-dollar-sign",
-        "value": "97.59",
-        "rawValue": 97.58599853515625,
-        "change": -0.02,
+        "value": "97.57",
+        "rawValue": 97.56500244140625,
+        "change": -0.05,
         "prevClose": 97.61000061035156
       },
       {
@@ -261,9 +261,9 @@
         "desc": "Índice de Volatilidade",
         "icon": "vix",
         "iconClass": "fas fa-bolt",
-        "value": "16.27",
-        "rawValue": 16.270000457763672,
-        "change": -0.43,
+        "value": "16.34",
+        "rawValue": 16.34000015258789,
+        "change": 0,
         "prevClose": 16.34000015258789
       },
       {
@@ -281,9 +281,9 @@
         "desc": "Crude Oil",
         "icon": "oil",
         "iconClass": "fas fa-oil-can",
-        "value": "$62.94",
-        "rawValue": 62.939998626708984,
-        "change": 1.29,
+        "value": "$62.91",
+        "rawValue": 62.90999984741211,
+        "change": 1.24,
         "prevClose": 62.13999938964844
       },
       {
