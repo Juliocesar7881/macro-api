@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-03T14:21:09.011Z",
+  "lastUpdate": "2026-02-03T14:50:30.951Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -241,19 +241,19 @@
         "desc": "Índice americano",
         "icon": "sp500",
         "iconClass": "fas fa-chart-line",
-        "value": "6976.44",
-        "rawValue": 6976.43994140625,
-        "change": 0.54,
-        "prevClose": 6939.02978515625
+        "value": "6981.38",
+        "rawValue": 6981.3798828125,
+        "change": 0.07,
+        "prevClose": 6976.43994140625
       },
       {
         "name": "DXY",
         "desc": "Índice do Dólar",
         "icon": "dxy",
         "iconClass": "fas fa-dollar-sign",
-        "value": "97.68",
-        "rawValue": 97.68399810791016,
-        "change": 0.08,
+        "value": "97.59",
+        "rawValue": 97.58599853515625,
+        "change": -0.02,
         "prevClose": 97.61000061035156
       },
       {
@@ -261,9 +261,9 @@
         "desc": "Índice de Volatilidade",
         "icon": "vix",
         "iconClass": "fas fa-bolt",
-        "value": "16.18",
-        "rawValue": 16.18000030517578,
-        "change": -0.98,
+        "value": "16.27",
+        "rawValue": 16.270000457763672,
+        "change": -0.43,
         "prevClose": 16.34000015258789
       },
       {
@@ -271,9 +271,9 @@
         "desc": "XAU/USD",
         "icon": "gold",
         "iconClass": "fas fa-coins",
-        "value": "$4948.80",
-        "rawValue": 4948.7998046875,
-        "change": 7.06,
+        "value": "$4947.60",
+        "rawValue": 4947.60009765625,
+        "change": 7.03,
         "prevClose": 4622.5
       },
       {
@@ -281,9 +281,9 @@
         "desc": "Crude Oil",
         "icon": "oil",
         "iconClass": "fas fa-oil-can",
-        "value": "$62.66",
-        "rawValue": 62.65999984741211,
-        "change": 0.84,
+        "value": "$62.94",
+        "rawValue": 62.939998626708984,
+        "change": 1.29,
         "prevClose": 62.13999938964844
       },
       {
@@ -291,9 +291,9 @@
         "desc": "Yield 10 Anos",
         "icon": "treasury",
         "iconClass": "fas fa-percentage",
-        "value": "4.295%",
-        "rawValue": 4.295000076293945,
-        "change": 0.47,
+        "value": "4.292%",
+        "rawValue": 4.291999816894531,
+        "change": 0.4,
         "prevClose": 4.275000095367432
       }
     ],
