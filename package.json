@@ -1,0 +1,27 @@
+{
+  "name": "macro-api",
+  "version": "1.0.0",
+  "description": "API de dados macroeconômicos para Visor Crypto - Atualizada via GitHub Actions",
+  "main": "fetch-macro-data.js",
+  "scripts": {
+    "fetch": "node fetch-macro-data.js",
+    "start": "node fetch-macro-data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SEU_USUARIO/macro-api.git"
+  },
+  "keywords": [
+    "macro",
+    "fed",
+    "economia",
+    "juros",
+    "crypto",
+    "bitcoin"
+  ],
+  "author": "Visor Crypto",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

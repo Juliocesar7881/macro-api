@@ -1,0 +1,303 @@
+{
+  "lastUpdate": "2026-02-03T13:57:08.462Z",
+  "nextMeetings": [
+    {
+      "date": "2026-03-18",
+      "label": "17-18 Mar 2026",
+      "time": "16:00",
+      "daysUntil": 43
+    },
+    {
+      "date": "2026-05-06",
+      "label": "5-6 Mai 2026",
+      "time": "16:00",
+      "daysUntil": 92
+    },
+    {
+      "date": "2026-06-17",
+      "label": "16-17 Jun 2026",
+      "time": "16:00",
+      "daysUntil": 134
+    }
+  ],
+  "fedRate": {
+    "current": {
+      "range": "4.25-4.50%",
+      "midpoint": 4.375,
+      "effective": 4.375
+    },
+    "lastDecision": {
+      "type": "cut",
+      "change": 25,
+      "date": "2025-12-18"
+    },
+    "history": [
+      {
+        "date": "2025-12-18",
+        "rate": 4.375
+      },
+      {
+        "date": "2025-11-06",
+        "rate": 4.625
+      },
+      {
+        "date": "2025-09-17",
+        "rate": 4.875
+      }
+    ],
+    "source": "Última decisão FOMC (Dezembro 2025)"
+  },
+  "probabilities": {
+    "cut": 30,
+    "hold": 60,
+    "hike": 10,
+    "source": "Treasury Futures (estimativa)"
+  },
+  "calendar": {
+    "events": [
+      {
+        "date": "2026-03-18",
+        "day": 17,
+        "month": "MAR",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-06",
+        "day": 5,
+        "month": "MAI",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "day": 16,
+        "month": "JUN",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-29",
+        "day": 28,
+        "month": "JUL",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "day": 15,
+        "month": "SET",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-04",
+        "day": 3,
+        "month": "NOV",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-16",
+        "day": 15,
+        "month": "DEZ",
+        "year": 2026,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      },
+      {
+        "date": "2027-01-27",
+        "day": 26,
+        "month": "JAN",
+        "year": 2027,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
+      }
+    ],
+    "source": "Calendário FOMC"
+  },
+  "marketIndicators": {
+    "indicators": [
+      {
+        "name": "S&P 500",
+        "desc": "Índice americano",
+        "icon": "sp500",
+        "iconClass": "fas fa-chart-line",
+        "value": "6976.44",
+        "rawValue": 6976.43994140625,
+        "change": 0.54,
+        "prevClose": 6939.02978515625
+      },
+      {
+        "name": "DXY",
+        "desc": "Índice do Dólar",
+        "icon": "dxy",
+        "iconClass": "fas fa-dollar-sign",
+        "value": "97.53",
+        "rawValue": 97.53299713134766,
+        "change": -0.08,
+        "prevClose": 97.61000061035156
+      },
+      {
+        "name": "VIX",
+        "desc": "Índice de Volatilidade",
+        "icon": "vix",
+        "iconClass": "fas fa-bolt",
+        "value": "16.17",
+        "rawValue": 16.170000076293945,
+        "change": -1.04,
+        "prevClose": 16.34000015258789
+      },
+      {
+        "name": "Ouro",
+        "desc": "XAU/USD",
+        "icon": "gold",
+        "iconClass": "fas fa-coins",
+        "value": "$4970.20",
+        "rawValue": 4970.2001953125,
+        "change": 7.52,
+        "prevClose": 4622.5
+      },
+      {
+        "name": "Petróleo WTI",
+        "desc": "Crude Oil",
+        "icon": "oil",
+        "iconClass": "fas fa-oil-can",
+        "value": "$62.64",
+        "rawValue": 62.63999938964844,
+        "change": 0.8,
+        "prevClose": 62.13999938964844
+      },
+      {
+        "name": "Treasury 10Y",
+        "desc": "Yield 10 Anos",
+        "icon": "treasury",
+        "iconClass": "fas fa-percentage",
+        "value": "4.295%",
+        "rawValue": 4.295000076293945,
+        "change": 0.47,
+        "prevClose": 4.275000095367432
+      }
+    ],
+    "source": "Yahoo Finance"
+  },
+  "errors": []
+}

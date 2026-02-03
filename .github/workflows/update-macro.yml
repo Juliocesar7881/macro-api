@@ -1,0 +1,73 @@
+name: Update Macro Data
+
+on:
+  schedule:
+    # Atualiza a cada 30 minutos, de segunda a sexta, das 9h às 22h (UTC-3 = 12h às 01h UTC)
+    - cron: '*/30 12-23 * * 1-5'
+    - cron: '*/30 0-1 * * 2-6'
+    # Finais de semana: a cada 2 horas
+    - cron: '0 */2 * * 0,6'
+  workflow_dispatch: # Permite execução manual
+  push:
+    branches:
+      - main
+    paths:
+      - 'fetch-macro-data.js'
+      - '.github/workflows/update-macro.yml'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Fetch macro data
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: npm run fetch
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/macro-data.json 2>/dev/null; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/macro-data.json
+          git commit -m "📊 Auto-update macro data - $(date +'%Y-%m-%d %H:%M UTC')"
+          git push
+      
+      - name: Summary
+        run: |
+          echo "## 📊 Macro Data Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Last Updated:** $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/macro-data.json ]; then
+            echo "### Data Preview" >> $GITHUB_STEP_SUMMARY
+            echo '```json' >> $GITHUB_STEP_SUMMARY
+            cat data/macro-data.json | head -50 >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
