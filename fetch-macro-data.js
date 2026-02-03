@@ -448,13 +448,37 @@ async function fetchMarketIndicators() {
     
     const indicators = [];
     
+    // Lista expandida de indicadores
     const symbols = [
-        { symbol: '%5EGSPC', name: 'S&P 500', desc: 'Índice americano', icon: 'sp500', iconClass: 'fas fa-chart-line' },
-        { symbol: 'DX-Y.NYB', name: 'DXY', desc: 'Índice do Dólar', icon: 'dxy', iconClass: 'fas fa-dollar-sign' },
-        { symbol: '%5EVIX', name: 'VIX', desc: 'Índice de Volatilidade', icon: 'vix', iconClass: 'fas fa-bolt' },
-        { symbol: 'GC=F', name: 'Ouro', desc: 'XAU/USD', icon: 'gold', iconClass: 'fas fa-coins' },
-        { symbol: 'CL=F', name: 'Petróleo WTI', desc: 'Crude Oil', icon: 'oil', iconClass: 'fas fa-oil-can' },
-        { symbol: '%5ETNX', name: 'Treasury 10Y', desc: 'Yield 10 Anos', icon: 'treasury', iconClass: 'fas fa-percentage' }
+        // Índices
+        { symbol: '%5EGSPC', name: 'S&P 500', desc: 'Índice americano', icon: 'sp500', iconClass: 'fas fa-chart-line', category: 'indices' },
+        { symbol: '%5EIXIC', name: 'NASDAQ', desc: 'Índice de tecnologia', icon: 'nasdaq', iconClass: 'fas fa-microchip', category: 'indices' },
+        { symbol: '%5EDJI', name: 'Dow Jones', desc: 'Índice industrial', icon: 'dowjones', iconClass: 'fas fa-industry', category: 'indices' },
+        
+        // Moedas/Forex
+        { symbol: 'DX-Y.NYB', name: 'DXY', desc: 'Índice do Dólar', icon: 'dxy', iconClass: 'fas fa-dollar-sign', category: 'forex' },
+        { symbol: 'EURUSD=X', name: 'EUR/USD', desc: 'Euro vs Dólar', icon: 'eurusd', iconClass: 'fas fa-euro-sign', category: 'forex' },
+        
+        // Volatilidade
+        { symbol: '%5EVIX', name: 'VIX', desc: 'Índice do Medo', icon: 'vix', iconClass: 'fas fa-bolt', category: 'volatility' },
+        
+        // Metais Preciosos
+        { symbol: 'GC=F', name: 'Ouro', desc: 'XAU/USD', icon: 'gold', iconClass: 'fas fa-coins', category: 'commodities' },
+        { symbol: 'SI=F', name: 'Prata', desc: 'XAG/USD', icon: 'silver', iconClass: 'fas fa-ring', category: 'commodities' },
+        { symbol: 'HG=F', name: 'Cobre', desc: 'Copper Futures', icon: 'copper', iconClass: 'fas fa-cube', category: 'commodities' },
+        { symbol: 'PL=F', name: 'Platina', desc: 'Platinum Futures', icon: 'platinum', iconClass: 'fas fa-gem', category: 'commodities' },
+        
+        // Energia
+        { symbol: 'CL=F', name: 'Petróleo WTI', desc: 'Crude Oil', icon: 'oil', iconClass: 'fas fa-oil-can', category: 'energy' },
+        { symbol: 'NG=F', name: 'Gás Natural', desc: 'Natural Gas', icon: 'natgas', iconClass: 'fas fa-fire', category: 'energy' },
+        
+        // Bonds
+        { symbol: '%5ETNX', name: 'Treasury 10Y', desc: 'Yield 10 Anos', icon: 'treasury10y', iconClass: 'fas fa-percentage', category: 'bonds' },
+        { symbol: '%5ETYX', name: 'Treasury 30Y', desc: 'Yield 30 Anos', icon: 'treasury30y', iconClass: 'fas fa-landmark', category: 'bonds' },
+        
+        // Cripto correlacionados
+        { symbol: 'MSTR', name: 'MicroStrategy', desc: 'Proxy de Bitcoin', icon: 'mstr', iconClass: 'fas fa-building', category: 'stocks' },
+        { symbol: 'COIN', name: 'Coinbase', desc: 'Exchange de Crypto', icon: 'coin', iconClass: 'fas fa-exchange-alt', category: 'stocks' }
     ];
     
     for (const sym of symbols) {
@@ -472,12 +496,24 @@ async function fetchMarketIndicators() {
                     const prevPrice = closes[closes.length - 2] || currentPrice;
                     const change = ((currentPrice - prevPrice) / prevPrice) * 100;
                     
-                    // Para Treasury, o valor é em percentual
+                    // Formatar valor baseado no tipo de indicador
                     let formattedValue = currentPrice.toFixed(2);
-                    if (sym.name === 'Ouro' || sym.name === 'Petróleo WTI') {
+                    
+                    // Commodities com preço em dólar
+                    if (['Ouro', 'Prata', 'Cobre', 'Platina', 'Petróleo WTI', 'Gás Natural'].includes(sym.name)) {
                         formattedValue = '$' + currentPrice.toFixed(2);
-                    } else if (sym.name === 'Treasury 10Y') {
+                    }
+                    // Yields/Treasury em percentual
+                    else if (['Treasury 10Y', 'Treasury 30Y'].includes(sym.name)) {
                         formattedValue = currentPrice.toFixed(3) + '%';
+                    }
+                    // Ações em dólar
+                    else if (['MicroStrategy', 'Coinbase'].includes(sym.name)) {
+                        formattedValue = '$' + currentPrice.toFixed(2);
+                    }
+                    // Forex com 4 casas decimais
+                    else if (sym.name === 'EUR/USD') {
+                        formattedValue = currentPrice.toFixed(4);
                     }
                     
                     indicators.push({
@@ -485,6 +521,8 @@ async function fetchMarketIndicators() {
                         desc: sym.desc,
                         icon: sym.icon,
                         iconClass: sym.iconClass,
+                        symbol: sym.symbol, // Adicionar símbolo para gráficos
+                        category: sym.category,
                         value: formattedValue,
                         rawValue: currentPrice,
                         change: parseFloat(change.toFixed(2)),
