@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-03T13:57:08.462Z",
+  "lastUpdate": "2026-02-03T14:21:09.011Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -57,7 +57,7 @@
     "events": [
       {
         "date": "2026-03-18",
-        "day": 17,
+        "day": 18,
         "month": "MAR",
         "year": 2026,
         "time": "16:00",
@@ -79,7 +79,7 @@
       },
       {
         "date": "2026-05-06",
-        "day": 5,
+        "day": 6,
         "month": "MAI",
         "year": 2026,
         "time": "16:00",
@@ -101,7 +101,7 @@
       },
       {
         "date": "2026-06-17",
-        "day": 16,
+        "day": 17,
         "month": "JUN",
         "year": 2026,
         "time": "16:00",
@@ -123,7 +123,7 @@
       },
       {
         "date": "2026-07-29",
-        "day": 28,
+        "day": 29,
         "month": "JUL",
         "year": 2026,
         "time": "16:00",
@@ -145,7 +145,7 @@
       },
       {
         "date": "2026-09-16",
-        "day": 15,
+        "day": 16,
         "month": "SET",
         "year": 2026,
         "time": "16:00",
@@ -167,7 +167,7 @@
       },
       {
         "date": "2026-11-04",
-        "day": 3,
+        "day": 4,
         "month": "NOV",
         "year": 2026,
         "time": "16:00",
@@ -189,7 +189,7 @@
       },
       {
         "date": "2026-12-16",
-        "day": 15,
+        "day": 16,
         "month": "DEZ",
         "year": 2026,
         "time": "16:00",
@@ -211,7 +211,7 @@
       },
       {
         "date": "2027-01-27",
-        "day": 26,
+        "day": 27,
         "month": "JAN",
         "year": 2027,
         "time": "16:00",
@@ -251,9 +251,9 @@
         "desc": "Índice do Dólar",
         "icon": "dxy",
         "iconClass": "fas fa-dollar-sign",
-        "value": "97.53",
-        "rawValue": 97.53299713134766,
-        "change": -0.08,
+        "value": "97.68",
+        "rawValue": 97.68399810791016,
+        "change": 0.08,
         "prevClose": 97.61000061035156
       },
       {
@@ -261,9 +261,9 @@
         "desc": "Índice de Volatilidade",
         "icon": "vix",
         "iconClass": "fas fa-bolt",
-        "value": "16.17",
-        "rawValue": 16.170000076293945,
-        "change": -1.04,
+        "value": "16.18",
+        "rawValue": 16.18000030517578,
+        "change": -0.98,
         "prevClose": 16.34000015258789
       },
       {
@@ -271,9 +271,9 @@
         "desc": "XAU/USD",
         "icon": "gold",
         "iconClass": "fas fa-coins",
-        "value": "$4970.20",
-        "rawValue": 4970.2001953125,
-        "change": 7.52,
+        "value": "$4948.80",
+        "rawValue": 4948.7998046875,
+        "change": 7.06,
         "prevClose": 4622.5
       },
       {
@@ -281,9 +281,9 @@
         "desc": "Crude Oil",
         "icon": "oil",
         "iconClass": "fas fa-oil-can",
-        "value": "$62.64",
-        "rawValue": 62.63999938964844,
-        "change": 0.8,
+        "value": "$62.66",
+        "rawValue": 62.65999984741211,
+        "change": 0.84,
         "prevClose": 62.13999938964844
       },
       {
