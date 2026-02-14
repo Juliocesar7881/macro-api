@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-02-13T23:33:48.479Z",
+  "lastUpdate": "2026-02-14T01:12:47.350Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
       "label": "17-18 Mar 2026",
       "time": "16:00",
-      "daysUntil": 33
+      "daysUntil": 32
     },
     {
       "date": "2026-05-06",
       "label": "5-6 Mai 2026",
       "time": "16:00",
-      "daysUntil": 82
+      "daysUntil": 81
     },
     {
       "date": "2026-06-17",
       "label": "16-17 Jun 2026",
       "time": "16:00",
-      "daysUntil": 124
+      "daysUntil": 123
     }
   ],
   "fedRate": {
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1871",
-        "rawValue": 1.1870845556259155,
-        "change": -0.04,
+        "value": "1.1868",
+        "rawValue": 1.1868449449539185,
+        "change": -0.06,
         "prevClose": 1.1876062154769897
       },
       {
