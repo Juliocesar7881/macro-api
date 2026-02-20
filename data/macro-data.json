@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-20T13:04:39.465Z",
+  "lastUpdate": "2026-02-20T14:10:54.006Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "97.88",
-        "rawValue": 97.875,
-        "change": -0.06,
+        "value": "97.89",
+        "rawValue": 97.88999938964844,
+        "change": -0.04,
         "prevClose": 97.93000030517578
       },
       {
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1770",
-        "rawValue": 1.177024483680725,
-        "change": -0.16,
+        "value": "1.1767",
+        "rawValue": 1.176747441291809,
+        "change": -0.18,
         "prevClose": 1.1788839101791382
       },
       {
@@ -303,9 +303,9 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "20.70",
-        "rawValue": 20.700000762939453,
-        "change": 2.32,
+        "value": "20.96",
+        "rawValue": 20.959999084472656,
+        "change": 3.61,
         "prevClose": 20.229999542236328
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$5041.50",
-        "rawValue": 5041.5,
-        "change": 1.32,
+        "value": "$5064.00",
+        "rawValue": 5064,
+        "change": 1.77,
         "prevClose": 4975.89990234375
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$80.39",
-        "rawValue": 80.38500213623047,
-        "change": 3.64,
+        "value": "$80.76",
+        "rawValue": 80.76499938964844,
+        "change": 4.13,
         "prevClose": 77.56500244140625
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$5.76",
-        "rawValue": 5.764999866485596,
-        "change": 0.61,
+        "value": "$5.75",
+        "rawValue": 5.75,
+        "change": 0.35,
         "prevClose": 5.730000019073486
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$2135.10",
-        "rawValue": 2135.10009765625,
-        "change": 3.53,
+        "value": "$2131.00",
+        "rawValue": 2131,
+        "change": 3.33,
         "prevClose": 2062.300048828125
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$66.15",
-        "rawValue": 66.1500015258789,
-        "change": -0.42,
+        "value": "$66.25",
+        "rawValue": 66.25,
+        "change": -0.27,
         "prevClose": 66.43000030517578
       },
       {
@@ -375,9 +375,9 @@
         "iconClass": "fas fa-fire",
         "symbol": "NG=F",
         "category": "energy",
-        "value": "$2.93",
-        "rawValue": 2.9260001182556152,
-        "change": -2.34,
+        "value": "$2.96",
+        "rawValue": 2.9600000381469727,
+        "change": -1.2,
         "prevClose": 2.996000051498413
       },
       {
@@ -387,10 +387,10 @@
         "iconClass": "fas fa-percentage",
         "symbol": "%5ETNX",
         "category": "bonds",
-        "value": "4.075%",
-        "rawValue": 4.074999809265137,
-        "change": -0.1,
-        "prevClose": 4.078999996185303
+        "value": "4.073%",
+        "rawValue": 4.072999954223633,
+        "change": -0.05,
+        "prevClose": 4.074999809265137
       },
       {
         "name": "Treasury 30Y",
@@ -401,8 +401,8 @@
         "category": "bonds",
         "value": "4.704%",
         "rawValue": 4.703999996185303,
-        "change": -0.04,
-        "prevClose": 4.705999851226807
+        "change": 0,
+        "prevClose": 4.703999996185303
       },
       {
         "name": "MicroStrategy",
