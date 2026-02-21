@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-21T01:21:53.270Z",
+  "lastUpdate": "2026-02-21T03:36:37.608Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -256,7 +256,7 @@
         "symbol": "%5EIXIC",
         "category": "indices",
         "value": "22886.07",
-        "rawValue": 22886.068359375,
+        "rawValue": 22886.0703125,
         "change": 0.9,
         "prevClose": 22682.73046875
       },
