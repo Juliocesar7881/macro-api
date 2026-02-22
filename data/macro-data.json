@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-22T18:21:52.643Z",
+  "lastUpdate": "2026-02-22T20:15:50.540Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -291,10 +291,10 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1769",
-        "rawValue": 1.1769136190414429,
-        "change": -0.17,
-        "prevClose": 1.1788839101791382
+        "value": "1.1792",
+        "rawValue": 1.1792453527450562,
+        "change": 0.2,
+        "prevClose": 1.1769136190414429
       },
       {
         "name": "VIX",
