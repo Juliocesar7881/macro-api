@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-03-08T22:14:23.594Z",
+  "lastUpdate": "2026-03-09T13:09:46.252Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
       "label": "17-18 Mar 2026",
       "time": "16:00",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-05-06",
       "label": "5-6 Mai 2026",
       "time": "16:00",
-      "daysUntil": 59
+      "daysUntil": 58
     },
     {
       "date": "2026-06-17",
       "label": "16-17 Jun 2026",
       "time": "16:00",
-      "daysUntil": 101
+      "daysUntil": 100
     }
   ],
   "fedRate": {
@@ -279,8 +279,8 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.35",
-        "rawValue": 99.3489990234375,
+        "value": "99.34",
+        "rawValue": 99.34200286865234,
         "change": 0.36,
         "prevClose": 98.98999786376953
       },
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1535",
-        "rawValue": 1.1535356044769287,
-        "change": -0.63,
+        "value": "1.1559",
+        "rawValue": 1.1559356451034546,
+        "change": -0.42,
         "prevClose": 1.1608065366744995
       },
       {
@@ -303,10 +303,10 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "29.49",
-        "rawValue": 29.489999771118164,
-        "change": 24.17,
-        "prevClose": 23.75
+        "value": "31.85",
+        "rawValue": 31.850000381469727,
+        "change": 8,
+        "prevClose": 29.489999771118164
       },
       {
         "name": "Ouro",
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$5158.70",
-        "rawValue": 5158.7001953125,
-        "change": 0.24,
+        "value": "$5102.90",
+        "rawValue": 5102.89990234375,
+        "change": -0.84,
         "prevClose": 5146.10009765625
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$84.31",
-        "rawValue": 84.31099700927734,
-        "change": 0.59,
+        "value": "$83.83",
+        "rawValue": 83.83499908447266,
+        "change": 0.02,
         "prevClose": 83.81600189208984
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$5.81",
-        "rawValue": 5.807000160217285,
-        "change": 0.87,
+        "value": "$5.76",
+        "rawValue": 5.76200008392334,
+        "change": 0.09,
         "prevClose": 5.756999969482422
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$2141.70",
-        "rawValue": 2141.699951171875,
-        "change": -0.03,
+        "value": "$2140.30",
+        "rawValue": 2140.300048828125,
+        "change": -0.1,
         "prevClose": 2142.39990234375
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$90.90",
-        "rawValue": 90.9000015258789,
-        "change": 0,
+        "value": "$102.41",
+        "rawValue": 102.41000366210938,
+        "change": 12.66,
         "prevClose": 90.9000015258789
       },
       {
@@ -375,9 +375,9 @@
         "iconClass": "fas fa-fire",
         "symbol": "NG=F",
         "category": "energy",
-        "value": "$3.19",
-        "rawValue": 3.186000108718872,
-        "change": 0,
+        "value": "$3.34",
+        "rawValue": 3.3440001010894775,
+        "change": 4.96,
         "prevClose": 3.186000108718872
       },
       {
@@ -387,10 +387,10 @@
         "iconClass": "fas fa-percentage",
         "symbol": "%5ETNX",
         "category": "bonds",
-        "value": "4.133%",
-        "rawValue": 4.132999897003174,
-        "change": -0.31,
-        "prevClose": 4.145999908447266
+        "value": "4.175%",
+        "rawValue": 4.175000190734863,
+        "change": 1.02,
+        "prevClose": 4.132999897003174
       },
       {
         "name": "Treasury 30Y",
@@ -399,10 +399,10 @@
         "iconClass": "fas fa-landmark",
         "symbol": "%5ETYX",
         "category": "bonds",
-        "value": "4.755%",
-        "rawValue": 4.755000114440918,
-        "change": 0.06,
-        "prevClose": 4.751999855041504
+        "value": "4.792%",
+        "rawValue": 4.791999816894531,
+        "change": 0.78,
+        "prevClose": 4.755000114440918
       },
       {
         "name": "MicroStrategy",
