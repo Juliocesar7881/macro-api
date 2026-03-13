@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-13T22:30:42.982Z",
+  "lastUpdate": "2026-03-13T23:31:20.519Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -271,18 +271,6 @@
         "rawValue": 46558.46875,
         "change": -0.26,
         "prevClose": 46677.8515625
-      },
-      {
-        "name": "DXY",
-        "desc": "Índice do Dólar",
-        "icon": "dxy",
-        "iconClass": "fas fa-dollar-sign",
-        "symbol": "DX-Y.NYB",
-        "category": "forex",
-        "value": "99.69",
-        "rawValue": 99.69100189208984,
-        "change": -0.05,
-        "prevClose": 99.73999786376953
       },
       {
         "name": "EUR/USD",
