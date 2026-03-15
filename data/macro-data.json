@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-15T01:24:03.457Z",
+  "lastUpdate": "2026-03-15T04:24:57.057Z",
   "nextMeetings": [
     {
       "date": "2026-03-18",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "100.50",
-        "rawValue": 100.49500274658203,
-        "change": 0.13,
-        "prevClose": 100.36000061035156
+        "value": "100.36",
+        "rawValue": 100.36000061035156,
+        "change": 0.62,
+        "prevClose": 99.73999786376953
       },
       {
         "name": "EUR/USD",
