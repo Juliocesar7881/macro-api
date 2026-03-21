@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-21T01:21:02.023Z",
+  "lastUpdate": "2026-03-21T03:34:13.700Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -245,8 +245,8 @@
         "category": "indices",
         "value": "6506.48",
         "rawValue": 6506.47998046875,
-        "change": -1.51,
-        "prevClose": 6606.490234375
+        "change": 0,
+        "prevClose": 6506.47998046875
       },
       {
         "name": "NASDAQ",
@@ -257,8 +257,8 @@
         "category": "indices",
         "value": "21647.61",
         "rawValue": 21647.611328125,
-        "change": -2.01,
-        "prevClose": 22090.689453125
+        "change": 0,
+        "prevClose": 21647.609375
       },
       {
         "name": "Dow Jones",
@@ -269,8 +269,8 @@
         "category": "indices",
         "value": "45577.47",
         "rawValue": 45577.46875,
-        "change": -0.96,
-        "prevClose": 46021.4296875
+        "change": 0,
+        "prevClose": 45577.46875
       },
       {
         "name": "DXY",
@@ -281,8 +281,8 @@
         "category": "forex",
         "value": "99.50",
         "rawValue": 99.50299835205078,
-        "change": 0.28,
-        "prevClose": 99.2300033569336
+        "change": -0.15,
+        "prevClose": 99.6500015258789
       },
       {
         "name": "EUR/USD",
@@ -305,8 +305,8 @@
         "category": "volatility",
         "value": "26.78",
         "rawValue": 26.780000686645508,
-        "change": 11.31,
-        "prevClose": 24.059999465942383
+        "change": 0,
+        "prevClose": 26.780000686645508
       },
       {
         "name": "Ouro",
@@ -317,8 +317,8 @@
         "category": "commodities",
         "value": "$4492.00",
         "rawValue": 4492,
-        "change": -2.36,
-        "prevClose": 4600.7001953125
+        "change": -1.72,
+        "prevClose": 4570.39990234375
       },
       {
         "name": "Prata",
@@ -329,8 +329,8 @@
         "category": "commodities",
         "value": "$67.81",
         "rawValue": 67.80999755859375,
-        "change": -4.36,
-        "prevClose": 70.9020004272461
+        "change": -2.23,
+        "prevClose": 69.36000061035156
       },
       {
         "name": "Cobre",
@@ -341,8 +341,8 @@
         "category": "commodities",
         "value": "$5.30",
         "rawValue": 5.302000045776367,
-        "change": -2.41,
-        "prevClose": 5.433000087738037
+        "change": -0.76,
+        "prevClose": 5.34250020980835
       },
       {
         "name": "Platina",
@@ -353,8 +353,8 @@
         "category": "commodities",
         "value": "$1920.10",
         "rawValue": 1920.0999755859375,
-        "change": -0.98,
-        "prevClose": 1939.199951171875
+        "change": -2.56,
+        "prevClose": 1970.5999755859375
       },
       {
         "name": "Petróleo WTI",
@@ -365,8 +365,8 @@
         "category": "energy",
         "value": "$98.09",
         "rawValue": 98.08999633789062,
-        "change": 2.03,
-        "prevClose": 96.13999938964844
+        "change": -0.23,
+        "prevClose": 98.31999969482422
       },
       {
         "name": "Gás Natural",
@@ -377,8 +377,8 @@
         "category": "energy",
         "value": "$3.10",
         "rawValue": 3.0959999561309814,
-        "change": -2.21,
-        "prevClose": 3.1659998893737793
+        "change": 0.03,
+        "prevClose": 3.0950000286102295
       },
       {
         "name": "Treasury 10Y",
@@ -389,8 +389,8 @@
         "category": "bonds",
         "value": "4.391%",
         "rawValue": 4.390999794006348,
-        "change": 2.57,
-        "prevClose": 4.281000137329102
+        "change": 0,
+        "prevClose": 4.390999794006348
       },
       {
         "name": "Treasury 30Y",
@@ -401,8 +401,8 @@
         "category": "bonds",
         "value": "4.960%",
         "rawValue": 4.960000038146973,
-        "change": 2.23,
-        "prevClose": 4.8520002365112305
+        "change": 0,
+        "prevClose": 4.960000038146973
       },
       {
         "name": "MicroStrategy",
@@ -413,8 +413,8 @@
         "category": "stocks",
         "value": "$135.66",
         "rawValue": 135.66000366210938,
-        "change": -1.87,
-        "prevClose": 138.24000549316406
+        "change": 0,
+        "prevClose": 135.66000366210938
       },
       {
         "name": "Coinbase",
@@ -425,8 +425,8 @@
         "category": "stocks",
         "value": "$197.50",
         "rawValue": 197.5,
-        "change": -2.67,
-        "prevClose": 202.91000366210938
+        "change": 0,
+        "prevClose": 197.5
       }
     ],
     "source": "Yahoo Finance"
