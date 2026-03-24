@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-24T20:02:44.227Z",
+  "lastUpdate": "2026-03-24T21:05:08.272Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -243,8 +243,8 @@
         "iconClass": "fas fa-chart-line",
         "symbol": "%5EGSPC",
         "category": "indices",
-        "value": "6556.39",
-        "rawValue": 6556.39013671875,
+        "value": "6556.37",
+        "rawValue": 6556.3701171875,
         "change": -0.37,
         "prevClose": 6581
       },
@@ -267,8 +267,8 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "46123.72",
-        "rawValue": 46123.71875,
+        "value": "46124.06",
+        "rawValue": 46124.05859375,
         "change": -0.18,
         "prevClose": 46208.46875
       },
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.41",
-        "rawValue": 99.40799713134766,
-        "change": 0.46,
+        "value": "99.23",
+        "rawValue": 99.2300033569336,
+        "change": 0.28,
         "prevClose": 98.94999694824219
       },
       {
@@ -291,10 +291,10 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1590",
-        "rawValue": 1.1590172052383423,
-        "change": 0.26,
-        "prevClose": 1.1560158729553223
+        "value": "1.1610",
+        "rawValue": 1.1610356569290161,
+        "change": 0.03,
+        "prevClose": 1.1607122421264648
       },
       {
         "name": "VIX",
@@ -303,9 +303,9 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "26.86",
-        "rawValue": 26.860000610351562,
-        "change": 2.72,
+        "value": "26.95",
+        "rawValue": 26.950000762939453,
+        "change": 3.06,
         "prevClose": 26.149999618530273
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4401.50",
-        "rawValue": 4401.5,
-        "change": -0.06,
+        "value": "$4481.50",
+        "rawValue": 4481.5,
+        "change": 1.76,
         "prevClose": 4404.10009765625
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$69.67",
-        "rawValue": 69.66500091552734,
-        "change": 0.89,
+        "value": "$71.35",
+        "rawValue": 71.3499984741211,
+        "change": 3.33,
         "prevClose": 69.04900360107422
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$5.45",
-        "rawValue": 5.453999996185303,
-        "change": 0.27,
+        "value": "$5.53",
+        "rawValue": 5.527500152587891,
+        "change": 1.62,
         "prevClose": 5.439499855041504
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1886.00",
-        "rawValue": 1886,
-        "change": 1.38,
+        "value": "$1920.20",
+        "rawValue": 1920.199951171875,
+        "change": 3.22,
         "prevClose": 1860.300048828125
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$91.72",
-        "rawValue": 91.72000122070312,
-        "change": 4.07,
+        "value": "$88.05",
+        "rawValue": 88.05000305175781,
+        "change": -0.09,
         "prevClose": 88.12999725341797
       },
       {
@@ -375,9 +375,9 @@
         "iconClass": "fas fa-fire",
         "symbol": "NG=F",
         "category": "energy",
-        "value": "$2.90",
-        "rawValue": 2.9030001163482666,
-        "change": 0.42,
+        "value": "$2.86",
+        "rawValue": 2.8610000610351562,
+        "change": -1.04,
         "prevClose": 2.8910000324249268
       },
       {
