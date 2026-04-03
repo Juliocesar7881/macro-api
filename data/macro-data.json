@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-04-02T23:46:43.361Z",
+  "lastUpdate": "2026-04-03T01:47:41.085Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
       "label": "5-6 Mai 2026",
       "time": "16:00",
-      "daysUntil": 34
+      "daysUntil": 33
     },
     {
       "date": "2026-06-17",
       "label": "16-17 Jun 2026",
       "time": "16:00",
-      "daysUntil": 76
+      "daysUntil": 75
     },
     {
       "date": "2026-07-29",
       "label": "28-29 Jul 2026",
       "time": "16:00",
-      "daysUntil": 118
+      "daysUntil": 117
     }
   ],
   "fedRate": {
@@ -280,9 +280,9 @@
         "symbol": "DX-Y.NYB",
         "category": "forex",
         "value": "100.02",
-        "rawValue": 100.01699829101562,
-        "change": 0.37,
-        "prevClose": 99.6500015258789
+        "rawValue": 100.02300262451172,
+        "change": -0.01,
+        "prevClose": 100.02999877929688
       },
       {
         "name": "EUR/USD",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1545",
-        "rawValue": 1.1544678211212158,
-        "change": -0.4,
+        "value": "1.1538",
+        "rawValue": 1.1538017988204956,
+        "change": -0.45,
         "prevClose": 1.159057378768921
       },
       {
