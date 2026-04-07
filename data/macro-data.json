@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-07T21:11:24.847Z",
+  "lastUpdate": "2026-04-07T22:04:25.658Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.67",
-        "rawValue": 99.66999816894531,
-        "change": -0.31,
+        "value": "99.64",
+        "rawValue": 99.63600158691406,
+        "change": -0.34,
         "prevClose": 99.9800033569336
       },
       {
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1605",
-        "rawValue": 1.160496711730957,
-        "change": 0.55,
+        "value": "1.1620",
+        "rawValue": 1.1619800329208374,
+        "change": 0.68,
         "prevClose": 1.1541212797164917
       },
       {
