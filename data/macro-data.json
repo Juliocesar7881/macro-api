@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-18T04:24:16.549Z",
+  "lastUpdate": "2026-04-18T06:56:40.700Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -400,7 +400,7 @@
         "symbol": "%5ETYX",
         "category": "bonds",
         "value": "4.885%",
-        "rawValue": 4.884999752044678,
+        "rawValue": 4.885000228881836,
         "change": -0.89,
         "prevClose": 4.928999900817871
       },
