@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-19T20:27:12.893Z",
+  "lastUpdate": "2026-04-19T22:25:11.749Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "98.10",
-        "rawValue": 98.0999984741211,
-        "change": -0.12,
-        "prevClose": 98.22000122070312
+        "value": "98.28",
+        "rawValue": 98.28099822998047,
+        "change": 0.18,
+        "prevClose": 98.0999984741211
       },
       {
         "name": "EUR/USD",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1743",
-        "rawValue": 1.1742602586746216,
-        "change": -0.34,
+        "value": "1.1736",
+        "rawValue": 1.1735711097717285,
+        "change": -0.4,
         "prevClose": 1.1782727241516113
       },
       {
@@ -315,10 +315,10 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4879.60",
-        "rawValue": 4879.60009765625,
-        "change": 1.97,
-        "prevClose": 4785.39990234375
+        "value": "$4809.50",
+        "rawValue": 4809.5,
+        "change": -0.99,
+        "prevClose": 4857.60009765625
       },
       {
         "name": "Prata",
@@ -327,10 +327,10 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$81.84",
-        "rawValue": 81.84200286865234,
-        "change": 4.12,
-        "prevClose": 78.60600280761719
+        "value": "$79.64",
+        "rawValue": 79.6449966430664,
+        "change": -2.56,
+        "prevClose": 81.73799896240234
       },
       {
         "name": "Cobre",
@@ -339,10 +339,10 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.11",
-        "rawValue": 6.114500045776367,
-        "change": 0.79,
-        "prevClose": 6.066500186920166
+        "value": "$6.02",
+        "rawValue": 6.017499923706055,
+        "change": -1.41,
+        "prevClose": 6.103499889373779
       },
       {
         "name": "Platina",
