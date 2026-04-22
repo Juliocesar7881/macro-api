@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-22T20:58:16.714Z",
+  "lastUpdate": "2026-04-22T21:58:22.423Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "98.61",
-        "rawValue": 98.60800170898438,
-        "change": 0.2,
+        "value": "98.59",
+        "rawValue": 98.59200286865234,
+        "change": 0.18,
         "prevClose": 98.41000366210938
       },
       {
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1710",
-        "rawValue": 1.1709601879119873,
-        "change": -0.3,
+        "value": "1.1711",
+        "rawValue": 1.1710972785949707,
+        "change": -0.28,
         "prevClose": 1.174425721168518
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4758.80",
-        "rawValue": 4758.7998046875,
-        "change": 1.29,
+        "value": "$4758.30",
+        "rawValue": 4758.2998046875,
+        "change": 1.27,
         "prevClose": 4698.39990234375
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$77.72",
-        "rawValue": 77.7249984741211,
-        "change": 1.72,
+        "value": "$77.68",
+        "rawValue": 77.68499755859375,
+        "change": 1.67,
         "prevClose": 76.41100311279297
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$2090.10",
-        "rawValue": 2090.10009765625,
-        "change": 3.25,
+        "value": "$2087.70",
+        "rawValue": 2087.699951171875,
+        "change": 3.13,
         "prevClose": 2024.300048828125
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$92.75",
-        "rawValue": 92.75,
-        "change": 0.67,
+        "value": "$92.87",
+        "rawValue": 92.87000274658203,
+        "change": 0.8,
         "prevClose": 92.12999725341797
       },
       {
