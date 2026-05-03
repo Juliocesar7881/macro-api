@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-03T10:44:31.894Z",
+  "lastUpdate": "2026-05-03T12:46:36.253Z",
   "nextMeetings": [
     {
       "date": "2026-05-06",
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$76.43",
-        "rawValue": 76.43099975585938,
-        "change": 3.94,
+        "value": "$75.95",
+        "rawValue": 75.95099639892578,
+        "change": 3.29,
         "prevClose": 73.53399658203125
       },
       {
