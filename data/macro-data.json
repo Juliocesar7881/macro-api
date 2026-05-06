@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-05-05T23:50:38.121Z",
+  "lastUpdate": "2026-05-06T02:08:56.494Z",
   "nextMeetings": [
-    {
-      "date": "2026-05-06",
-      "label": "5-6 Mai 2026",
-      "time": "16:00",
-      "daysUntil": 1
-    },
     {
       "date": "2026-06-17",
       "label": "16-17 Jun 2026",
       "time": "16:00",
-      "daysUntil": 43
+      "daysUntil": 42
     },
     {
       "date": "2026-07-29",
       "label": "28-29 Jul 2026",
       "time": "16:00",
-      "daysUntil": 85
+      "daysUntil": 84
+    },
+    {
+      "date": "2026-09-16",
+      "label": "15-16 Set 2026",
+      "time": "16:00",
+      "daysUntil": 133
     }
   ],
   "fedRate": {
@@ -55,28 +55,6 @@
   },
   "calendar": {
     "events": [
-      {
-        "date": "2026-05-06",
-        "day": 6,
-        "month": "MAI",
-        "year": 2026,
-        "time": "16:00",
-        "title": "Decisão FOMC",
-        "originalTitle": "Fed Interest Rate Decision",
-        "country": "🇺🇸 EUA",
-        "countryCode": "US",
-        "impact": "high",
-        "previous": null,
-        "estimate": null,
-        "actual": null,
-        "history": [
-          {
-            "date": "Taxa Atual",
-            "value": "4.25-4.50%",
-            "type": "neutral"
-          }
-        ]
-      },
       {
         "date": "2026-06-17",
         "day": 17,
@@ -230,6 +208,28 @@
             "type": "neutral"
           }
         ]
+      },
+      {
+        "date": "2027-05-05",
+        "day": 5,
+        "month": "MAI",
+        "year": 2027,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
       }
     ],
     "source": "Calendário FOMC"
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "98.49",
-        "rawValue": 98.48600006103516,
-        "change": 0.02,
+        "value": "98.26",
+        "rawValue": 98.26100158691406,
+        "change": -0.21,
         "prevClose": 98.47000122070312
       },
       {
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1721",
-        "rawValue": 1.17205810546875,
-        "change": 0.24,
+        "value": "1.1727",
+        "rawValue": 1.1727453470230103,
+        "change": 0.3,
         "prevClose": 1.1691941022872925
       },
       {
@@ -315,10 +315,10 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4598.70",
-        "rawValue": 4598.7001953125,
-        "change": 1.75,
-        "prevClose": 4519.5
+        "value": "$4636.40",
+        "rawValue": 4636.39990234375,
+        "change": 1.77,
+        "prevClose": 4555.7998046875
       },
       {
         "name": "Prata",
@@ -327,10 +327,10 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$74.32",
-        "rawValue": 74.32499694824219,
-        "change": 1.71,
-        "prevClose": 73.0719985961914
+        "value": "$75.26",
+        "rawValue": 75.26499938964844,
+        "change": 2.95,
+        "prevClose": 73.10800170898438
       },
       {
         "name": "Cobre",
@@ -339,10 +339,10 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.00",
-        "rawValue": 6.001999855041504,
-        "change": 3.57,
-        "prevClose": 5.795000076293945
+        "value": "$6.06",
+        "rawValue": 6.05649995803833,
+        "change": 1.91,
+        "prevClose": 5.942999839782715
       },
       {
         "name": "Platina",
@@ -351,10 +351,10 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1986.00",
-        "rawValue": 1986,
-        "change": 2.01,
-        "prevClose": 1946.9000244140625
+        "value": "$1998.80",
+        "rawValue": 1998.800048828125,
+        "change": 1.94,
+        "prevClose": 1960.699951171875
       },
       {
         "name": "Petróleo WTI",
@@ -363,10 +363,10 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$100.15",
-        "rawValue": 100.1500015258789,
-        "change": -5.89,
-        "prevClose": 106.41999816894531
+        "value": "$100.55",
+        "rawValue": 100.55000305175781,
+        "change": -1.68,
+        "prevClose": 102.2699966430664
       },
       {
         "name": "Gás Natural",
@@ -376,9 +376,9 @@
         "symbol": "NG=F",
         "category": "energy",
         "value": "$2.77",
-        "rawValue": 2.7730000019073486,
-        "change": -3.28,
-        "prevClose": 2.867000102996826
+        "rawValue": 2.7690000534057617,
+        "change": -0.68,
+        "prevClose": 2.7880001068115234
       },
       {
         "name": "Treasury 10Y",
