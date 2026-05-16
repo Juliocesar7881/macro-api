@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-16T02:14:28.491Z",
+  "lastUpdate": "2026-05-16T06:14:36.938Z",
   "nextMeetings": [
     {
       "date": "2026-06-17",
@@ -256,7 +256,7 @@
         "symbol": "%5EIXIC",
         "category": "indices",
         "value": "26225.14",
-        "rawValue": 26225.14453125,
+        "rawValue": 26225.140625,
         "change": -1.54,
         "prevClose": 26635.220703125
       },
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4543.60",
-        "rawValue": 4543.60009765625,
-        "change": -2.88,
+        "value": "$4555.80",
+        "rawValue": 4555.7998046875,
+        "change": -2.61,
         "prevClose": 4678.10009765625
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$76.29",
-        "rawValue": 76.29499816894531,
-        "change": -10.15,
+        "value": "$77.16",
+        "rawValue": 77.16100311279297,
+        "change": -9.13,
         "prevClose": 84.91200256347656
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.29",
-        "rawValue": 6.2895002365112305,
-        "change": -4.23,
+        "value": "$6.25",
+        "rawValue": 6.251500129699707,
+        "change": -4.81,
         "prevClose": 6.567500114440918
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1985.20",
-        "rawValue": 1985.199951171875,
-        "change": -4.72,
+        "value": "$1981.30",
+        "rawValue": 1981.300048828125,
+        "change": -4.91,
         "prevClose": 2083.5
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$101.16",
-        "rawValue": 101.16000366210938,
-        "change": -0.01,
+        "value": "$105.42",
+        "rawValue": 105.41999816894531,
+        "change": 4.2,
         "prevClose": 101.16999816894531
       },
       {
@@ -376,8 +376,8 @@
         "symbol": "NG=F",
         "category": "energy",
         "value": "$2.96",
-        "rawValue": 2.9609999656677246,
-        "change": 2.32,
+        "rawValue": 2.9600000381469727,
+        "change": 2.28,
         "prevClose": 2.8940000534057617
       },
       {
@@ -388,7 +388,7 @@
         "symbol": "%5ETNX",
         "category": "bonds",
         "value": "4.595%",
-        "rawValue": 4.595000267028809,
+        "rawValue": 4.59499979019165,
         "change": 3,
         "prevClose": 4.460999965667725
       },
