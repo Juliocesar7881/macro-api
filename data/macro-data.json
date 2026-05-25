@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-05-24T22:47:04.583Z",
+  "lastUpdate": "2026-05-25T14:57:36.168Z",
   "nextMeetings": [
     {
       "date": "2026-06-17",
       "label": "16-17 Jun 2026",
       "time": "16:00",
-      "daysUntil": 24
+      "daysUntil": 23
     },
     {
       "date": "2026-07-29",
       "label": "28-29 Jul 2026",
       "time": "16:00",
-      "daysUntil": 66
+      "daysUntil": 65
     },
     {
       "date": "2026-09-16",
       "label": "15-16 Set 2026",
       "time": "16:00",
-      "daysUntil": 115
+      "daysUntil": 114
     }
   ],
   "fedRate": {
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.01",
-        "rawValue": 99.01200103759766,
-        "change": -0.31,
+        "value": "98.98",
+        "rawValue": 98.97699737548828,
+        "change": -0.35,
         "prevClose": 99.31999969482422
       },
       {
@@ -305,8 +305,8 @@
         "category": "volatility",
         "value": "16.70",
         "rawValue": 16.700000762939453,
-        "change": -0.36,
-        "prevClose": 16.760000228881836
+        "change": 0,
+        "prevClose": 16.700000762939453
       },
       {
         "name": "Ouro",
