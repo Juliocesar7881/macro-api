@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-06-16T22:29:57.527Z",
+  "lastUpdate": "2026-06-17T00:00:02.808Z",
   "nextMeetings": [
-    {
-      "date": "2026-06-17",
-      "label": "16-17 Jun 2026",
-      "time": "16:00",
-      "daysUntil": 1
-    },
     {
       "date": "2026-07-29",
       "label": "28-29 Jul 2026",
       "time": "16:00",
-      "daysUntil": 43
+      "daysUntil": 42
     },
     {
       "date": "2026-09-16",
       "label": "15-16 Set 2026",
       "time": "16:00",
-      "daysUntil": 92
+      "daysUntil": 91
+    },
+    {
+      "date": "2026-11-04",
+      "label": "3-4 Nov 2026",
+      "time": "16:00",
+      "daysUntil": 140
     }
   ],
   "fedRate": {
@@ -55,28 +55,6 @@
   },
   "calendar": {
     "events": [
-      {
-        "date": "2026-06-17",
-        "day": 17,
-        "month": "JUN",
-        "year": 2026,
-        "time": "16:00",
-        "title": "Decisão FOMC",
-        "originalTitle": "Fed Interest Rate Decision",
-        "country": "🇺🇸 EUA",
-        "countryCode": "US",
-        "impact": "high",
-        "previous": null,
-        "estimate": null,
-        "actual": null,
-        "history": [
-          {
-            "date": "Taxa Atual",
-            "value": "4.25-4.50%",
-            "type": "neutral"
-          }
-        ]
-      },
       {
         "date": "2026-07-29",
         "day": 29,
@@ -230,6 +208,28 @@
             "type": "neutral"
           }
         ]
+      },
+      {
+        "date": "2027-06-16",
+        "day": 16,
+        "month": "JUN",
+        "year": 2027,
+        "time": "16:00",
+        "title": "Decisão FOMC",
+        "originalTitle": "Fed Interest Rate Decision",
+        "country": "🇺🇸 EUA",
+        "countryCode": "US",
+        "impact": "high",
+        "previous": null,
+        "estimate": null,
+        "actual": null,
+        "history": [
+          {
+            "date": "Taxa Atual",
+            "value": "4.25-4.50%",
+            "type": "neutral"
+          }
+        ]
       }
     ],
     "source": "Calendário FOMC"
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.54",
-        "rawValue": 99.54000091552734,
-        "change": -0.09,
+        "value": "99.53",
+        "rawValue": 99.53299713134766,
+        "change": -0.1,
         "prevClose": 99.62999725341797
       },
       {
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1614",
-        "rawValue": 1.161440134048462,
-        "change": 0.17,
+        "value": "1.1613",
+        "rawValue": 1.16130530834198,
+        "change": 0.16,
         "prevClose": 1.1594202518463135
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4351.00",
-        "rawValue": 4351,
-        "change": 0.53,
+        "value": "$4351.80",
+        "rawValue": 4351.7998046875,
+        "change": 0.55,
         "prevClose": 4328
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$70.08",
-        "rawValue": 70.08499908447266,
-        "change": 0.03,
+        "value": "$70.05",
+        "rawValue": 70.05000305175781,
+        "change": -0.02,
         "prevClose": 70.06600189208984
       },
       {
@@ -340,8 +340,8 @@
         "symbol": "HG=F",
         "category": "commodities",
         "value": "$6.49",
-        "rawValue": 6.48799991607666,
-        "change": 0.08,
+        "rawValue": 6.491499900817871,
+        "change": 0.14,
         "prevClose": 6.482500076293945
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1810.40",
-        "rawValue": 1810.4000244140625,
-        "change": 2.28,
+        "value": "$1808.50",
+        "rawValue": 1808.5,
+        "change": 2.18,
         "prevClose": 1770
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$75.98",
-        "rawValue": 75.9800033569336,
-        "change": -5.91,
+        "value": "$75.82",
+        "rawValue": 75.81999969482422,
+        "change": -6.11,
         "prevClose": 80.75
       },
       {
@@ -375,9 +375,9 @@
         "iconClass": "fas fa-fire",
         "symbol": "NG=F",
         "category": "energy",
-        "value": "$3.26",
-        "rawValue": 3.257999897003174,
-        "change": 3.53,
+        "value": "$3.25",
+        "rawValue": 3.253999948501587,
+        "change": 3.4,
         "prevClose": 3.1470000743865967
       },
       {
