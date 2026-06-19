@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-19T20:51:32.053Z",
+  "lastUpdate": "2026-06-19T22:05:20.238Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1478",
-        "rawValue": 1.1478420495986938,
-        "change": 0.17,
+        "value": "1.1469",
+        "rawValue": 1.1469204425811768,
+        "change": 0.09,
         "prevClose": 1.1458560228347778
       },
       {
