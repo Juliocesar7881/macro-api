@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-19T19:15:30.634Z",
+  "lastUpdate": "2026-06-19T20:51:32.053Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "100.72",
-        "rawValue": 100.72000122070312,
-        "change": -0.13,
+        "value": "100.85",
+        "rawValue": 100.8489990234375,
+        "change": 0,
         "prevClose": 100.8499984741211
       },
       {
@@ -291,10 +291,10 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1481",
-        "rawValue": 1.1481056213378906,
-        "change": -0.23,
-        "prevClose": 1.150734782218933
+        "value": "1.1478",
+        "rawValue": 1.1478420495986938,
+        "change": 0.17,
+        "prevClose": 1.1458560228347778
       },
       {
         "name": "VIX",
