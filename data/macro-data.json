@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-28T20:51:40.280Z",
+  "lastUpdate": "2026-06-28T22:54:08.419Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "101.36",
-        "rawValue": 101.36000061035156,
-        "change": -0.07,
-        "prevClose": 101.43000030517578
+        "value": "101.37",
+        "rawValue": 101.36599731445312,
+        "change": 0.01,
+        "prevClose": 101.36000061035156
       },
       {
         "name": "EUR/USD",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1390",
-        "rawValue": 1.1389521360397339,
-        "change": 0.24,
+        "value": "1.1388",
+        "rawValue": 1.1388224363327026,
+        "change": 0.23,
         "prevClose": 1.1361699104309082
       },
       {
@@ -315,10 +315,10 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4096.30",
-        "rawValue": 4096.2998046875,
-        "change": 1.63,
-        "prevClose": 4030.5
+        "value": "$4078.70",
+        "rawValue": 4078.699951171875,
+        "change": 0,
+        "prevClose": 4078.699951171875
       },
       {
         "name": "Prata",
@@ -327,10 +327,10 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$59.67",
-        "rawValue": 59.67399978637695,
-        "change": 2.27,
-        "prevClose": 58.347999572753906
+        "value": "$59.13",
+        "rawValue": 59.1349983215332,
+        "change": -0.14,
+        "prevClose": 59.21699905395508
       },
       {
         "name": "Cobre",
@@ -339,10 +339,10 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.21",
-        "rawValue": 6.206999778747559,
-        "change": 2.25,
-        "prevClose": 6.070499897003174
+        "value": "$6.20",
+        "rawValue": 6.195000171661377,
+        "change": 0.87,
+        "prevClose": 6.141499996185303
       },
       {
         "name": "Platina",
@@ -351,10 +351,10 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1647.30",
-        "rawValue": 1647.300048828125,
-        "change": 2.85,
-        "prevClose": 1601.699951171875
+        "value": "$1629.80",
+        "rawValue": 1629.800048828125,
+        "change": -0.07,
+        "prevClose": 1630.9000244140625
       },
       {
         "name": "Petróleo WTI",
@@ -363,10 +363,10 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$69.23",
-        "rawValue": 69.2300033569336,
-        "change": -3.74,
-        "prevClose": 71.91999816894531
+        "value": "$70.18",
+        "rawValue": 70.18000030517578,
+        "change": 1.37,
+        "prevClose": 69.2300033569336
       },
       {
         "name": "Gás Natural",
@@ -375,10 +375,10 @@
         "iconClass": "fas fa-fire",
         "symbol": "NG=F",
         "category": "energy",
-        "value": "$3.28",
-        "rawValue": 3.2790000438690186,
-        "change": -1.91,
-        "prevClose": 3.3429999351501465
+        "value": "$3.31",
+        "rawValue": 3.308000087738037,
+        "change": 2.38,
+        "prevClose": 3.2309999465942383
       },
       {
         "name": "Treasury 10Y",
