@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-04T02:11:09.050Z",
+  "lastUpdate": "2026-07-04T05:42:46.175Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -303,10 +303,10 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "15.81",
-        "rawValue": 15.8100004196167,
-        "change": -2.11,
-        "prevClose": 16.149999618530273
+        "value": "16.15",
+        "rawValue": 16.149999618530273,
+        "change": -2.65,
+        "prevClose": 16.59000015258789
       },
       {
         "name": "Ouro",
