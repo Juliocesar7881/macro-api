@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-04T20:42:56.678Z",
+  "lastUpdate": "2026-07-04T22:47:17.065Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -48,9 +48,9 @@
     "source": "Última decisão FOMC (Dezembro 2025)"
   },
   "probabilities": {
-    "cut": 15,
-    "hold": 78,
-    "hike": 7,
+    "cut": 30,
+    "hold": 60,
+    "hike": 10,
     "source": "Treasury Futures (estimativa)"
   },
   "calendar": {
@@ -387,10 +387,10 @@
         "iconClass": "fas fa-percentage",
         "symbol": "%5ETNX",
         "category": "bonds",
-        "value": "4.372%",
-        "rawValue": 4.372000217437744,
+        "value": "4.485%",
+        "rawValue": 4.484999656677246,
         "change": 0,
-        "prevClose": 4.372000217437744
+        "prevClose": 4.484999656677246
       },
       {
         "name": "Treasury 30Y",
@@ -399,10 +399,10 @@
         "iconClass": "fas fa-landmark",
         "symbol": "%5ETYX",
         "category": "bonds",
-        "value": "4.864%",
-        "rawValue": 4.863999843597412,
+        "value": "4.985%",
+        "rawValue": 4.984999656677246,
         "change": 0,
-        "prevClose": 4.863999843597412
+        "prevClose": 4.984999656677246
       },
       {
         "name": "MicroStrategy",
