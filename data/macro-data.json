@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-05T02:05:43.414Z",
+  "lastUpdate": "2026-07-05T06:59:15.830Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -48,9 +48,9 @@
     "source": "Última decisão FOMC (Dezembro 2025)"
   },
   "probabilities": {
-    "cut": 30,
-    "hold": 60,
-    "hike": 10,
+    "cut": 15,
+    "hold": 78,
+    "hike": 7,
     "source": "Treasury Futures (estimativa)"
   },
   "calendar": {
@@ -280,9 +280,9 @@
         "symbol": "DX-Y.NYB",
         "category": "forex",
         "value": "100.86",
-        "rawValue": 100.85700225830078,
-        "change": 0,
-        "prevClose": 100.86000061035156
+        "rawValue": 100.86000061035156,
+        "change": -0.52,
+        "prevClose": 101.38999938964844
       },
       {
         "name": "EUR/USD",
@@ -388,9 +388,9 @@
         "symbol": "%5ETNX",
         "category": "bonds",
         "value": "4.485%",
-        "rawValue": 4.484999656677246,
-        "change": 0,
-        "prevClose": 4.484999656677246
+        "rawValue": 4.485000133514404,
+        "change": 0.22,
+        "prevClose": 4.474999904632568
       },
       {
         "name": "Treasury 30Y",
@@ -400,9 +400,9 @@
         "symbol": "%5ETYX",
         "category": "bonds",
         "value": "4.985%",
-        "rawValue": 4.984999656677246,
-        "change": 0,
-        "prevClose": 4.984999656677246
+        "rawValue": 4.985000133514404,
+        "change": 0.38,
+        "prevClose": 4.966000080108643
       },
       {
         "name": "MicroStrategy",
