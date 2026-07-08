@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-07-07T23:58:39.112Z",
+  "lastUpdate": "2026-07-08T02:00:40.652Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
       "label": "28-29 Jul 2026",
       "time": "16:00",
-      "daysUntil": 22
+      "daysUntil": 21
     },
     {
       "date": "2026-09-16",
       "label": "15-16 Set 2026",
       "time": "16:00",
-      "daysUntil": 71
+      "daysUntil": 70
     },
     {
       "date": "2026-11-04",
       "label": "3-4 Nov 2026",
       "time": "16:00",
-      "daysUntil": 120
+      "daysUntil": 119
     }
   ],
   "fedRate": {
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "101.17",
-        "rawValue": 101.1709976196289,
-        "change": 0.32,
-        "prevClose": 100.8499984741211
+        "value": "101.15",
+        "rawValue": 101.15399932861328,
+        "change": 0.01,
+        "prevClose": 101.13999938964844
       },
       {
         "name": "EUR/USD",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1404",
-        "rawValue": 1.140380859375,
-        "change": -0.33,
+        "value": "1.1409",
+        "rawValue": 1.1409013271331787,
+        "change": -0.29,
         "prevClose": 1.144177794456482
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4108.80",
-        "rawValue": 4108.7998046875,
-        "change": -1.11,
+        "value": "$4123.20",
+        "rawValue": 4123.2001953125,
+        "change": -0.77,
         "prevClose": 4155.10009765625
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$60.15",
-        "rawValue": 60.14500045776367,
-        "change": -2.87,
+        "value": "$60.42",
+        "rawValue": 60.42499923706055,
+        "change": -2.41,
         "prevClose": 61.91999816894531
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.17",
-        "rawValue": 6.166999816894531,
-        "change": -0.18,
+        "value": "$6.19",
+        "rawValue": 6.192999839782715,
+        "change": 0.24,
         "prevClose": 6.177999973297119
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1640.90",
-        "rawValue": 1640.9000244140625,
-        "change": 0.56,
+        "value": "$1640.10",
+        "rawValue": 1640.0999755859375,
+        "change": 0.51,
         "prevClose": 1631.699951171875
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$72.34",
-        "rawValue": 72.33999633789062,
-        "change": 5.53,
+        "value": "$72.12",
+        "rawValue": 72.12000274658203,
+        "change": 5.21,
         "prevClose": 68.55000305175781
       },
       {
@@ -375,9 +375,9 @@
         "iconClass": "fas fa-fire",
         "symbol": "NG=F",
         "category": "energy",
-        "value": "$3.27",
-        "rawValue": 3.2739999294281006,
-        "change": 0.89,
+        "value": "$3.28",
+        "rawValue": 3.2790000438690186,
+        "change": 1.05,
         "prevClose": 3.244999885559082
       },
       {
