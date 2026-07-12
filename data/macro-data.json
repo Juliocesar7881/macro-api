@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-12T07:59:24.674Z",
+  "lastUpdate": "2026-07-12T09:51:56.733Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4113.70",
-        "rawValue": 4113.7001953125,
-        "change": -0.41,
+        "value": "$4104.10",
+        "rawValue": 4104.10009765625,
+        "change": -0.64,
         "prevClose": 4130.60009765625
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.28",
-        "rawValue": 6.2820000648498535,
-        "change": 1.08,
+        "value": "$6.23",
+        "rawValue": 6.233500003814697,
+        "change": 0.3,
         "prevClose": 6.215000152587891
       },
       {
