@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-19T09:51:23.248Z",
+  "lastUpdate": "2026-07-19T11:03:54.061Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$82.49",
-        "rawValue": 82.48999786376953,
-        "change": 4.48,
+        "value": "$81.78",
+        "rawValue": 81.77999877929688,
+        "change": 3.58,
         "prevClose": 78.94999694824219
       },
       {
