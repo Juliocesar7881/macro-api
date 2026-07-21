@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-21T00:58:39.055Z",
+  "lastUpdate": "2026-07-21T01:59:00.620Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -280,9 +280,9 @@
         "symbol": "DX-Y.NYB",
         "category": "forex",
         "value": "100.96",
-        "rawValue": 100.95800018310547,
-        "change": 0.21,
-        "prevClose": 100.75
+        "rawValue": 100.95999908447266,
+        "change": -0.03,
+        "prevClose": 100.98999786376953
       },
       {
         "name": "EUR/USD",
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4028.00",
-        "rawValue": 4028,
-        "change": 0.38,
+        "value": "$4030.00",
+        "rawValue": 4030,
+        "change": 0.43,
         "prevClose": 4012.699951171875
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$56.99",
-        "rawValue": 56.98500061035156,
-        "change": 1.69,
+        "value": "$57.29",
+        "rawValue": 57.290000915527344,
+        "change": 2.23,
         "prevClose": 56.03799819946289
       },
       {
@@ -340,8 +340,8 @@
         "symbol": "HG=F",
         "category": "commodities",
         "value": "$6.37",
-        "rawValue": 6.365499973297119,
-        "change": 2.34,
+        "rawValue": 6.367499828338623,
+        "change": 2.37,
         "prevClose": 6.21999979019165
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1606.20",
-        "rawValue": 1606.199951171875,
-        "change": 0.02,
+        "value": "$1599.40",
+        "rawValue": 1599.4000244140625,
+        "change": -0.4,
         "prevClose": 1605.800048828125
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$82.45",
-        "rawValue": 82.44999694824219,
-        "change": -0.05,
+        "value": "$82.31",
+        "rawValue": 82.30999755859375,
+        "change": -0.22,
         "prevClose": 82.48999786376953
       },
       {
@@ -376,8 +376,8 @@
         "symbol": "NG=F",
         "category": "energy",
         "value": "$2.85",
-        "rawValue": 2.8489999771118164,
-        "change": -2.13,
+        "rawValue": 2.8450000286102295,
+        "change": -2.27,
         "prevClose": 2.9110000133514404
       },
       {
