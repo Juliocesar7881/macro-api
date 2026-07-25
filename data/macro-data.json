@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-25T16:44:41.439Z",
+  "lastUpdate": "2026-07-25T18:52:48.227Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -243,10 +243,10 @@
         "iconClass": "fas fa-chart-line",
         "symbol": "%5EGSPC",
         "category": "indices",
-        "value": "7408.30",
-        "rawValue": 7408.2998046875,
-        "change": -1.21,
-        "prevClose": 7498.9599609375
+        "value": "7411.98",
+        "rawValue": 7411.97998046875,
+        "change": 0.05,
+        "prevClose": 7408.2998046875
       },
       {
         "name": "NASDAQ",
@@ -255,10 +255,10 @@
         "iconClass": "fas fa-microchip",
         "symbol": "%5EIXIC",
         "category": "indices",
-        "value": "25137.69",
-        "rawValue": 25137.689453125,
-        "change": -2.15,
-        "prevClose": 25690.900390625
+        "value": "24975.82",
+        "rawValue": 24975.8203125,
+        "change": -0.64,
+        "prevClose": 25137.689453125
       },
       {
         "name": "Dow Jones",
@@ -267,10 +267,10 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "51711.65",
-        "rawValue": 51711.6484375,
-        "change": -0.97,
-        "prevClose": 52218.578125
+        "value": "51947.25",
+        "rawValue": 51947.25,
+        "change": 0.46,
+        "prevClose": 51711.6484375
       },
       {
         "name": "DXY",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "101.43",
-        "rawValue": 101.43000030517578,
-        "change": 0.29,
-        "prevClose": 101.13999938964844
+        "value": "101.47",
+        "rawValue": 101.47000122070312,
+        "change": 0.04,
+        "prevClose": 101.43000030517578
       },
       {
         "name": "EUR/USD",
@@ -303,10 +303,10 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "18.70",
-        "rawValue": 18.700000762939453,
-        "change": 12.38,
-        "prevClose": 16.639999389648438
+        "value": "18.58",
+        "rawValue": 18.579999923706055,
+        "change": -0.64,
+        "prevClose": 18.700000762939453
       },
       {
         "name": "Ouro",
@@ -387,10 +387,10 @@
         "iconClass": "fas fa-percentage",
         "symbol": "%5ETNX",
         "category": "bonds",
-        "value": "4.703%",
-        "rawValue": 4.703000068664551,
-        "change": 0.99,
-        "prevClose": 4.6570000648498535
+        "value": "4.679%",
+        "rawValue": 4.678999900817871,
+        "change": -0.51,
+        "prevClose": 4.703000068664551
       },
       {
         "name": "Treasury 30Y",
@@ -399,10 +399,10 @@
         "iconClass": "fas fa-landmark",
         "symbol": "%5ETYX",
         "category": "bonds",
-        "value": "5.171%",
-        "rawValue": 5.171000003814697,
-        "change": 0.47,
-        "prevClose": 5.146999835968018
+        "value": "5.162%",
+        "rawValue": 5.1620001792907715,
+        "change": -0.17,
+        "prevClose": 5.171000003814697
       },
       {
         "name": "MicroStrategy",
@@ -411,10 +411,10 @@
         "iconClass": "fas fa-building",
         "symbol": "MSTR",
         "category": "stocks",
-        "value": "$93.63",
-        "rawValue": 93.62999725341797,
-        "change": -6.38,
-        "prevClose": 100.01000213623047
+        "value": "$91.67",
+        "rawValue": 91.66999816894531,
+        "change": -2.09,
+        "prevClose": 93.62999725341797
       },
       {
         "name": "Coinbase",
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$161.16",
-        "rawValue": 161.16000366210938,
-        "change": -2.99,
-        "prevClose": 166.1199951171875
+        "value": "$158.29",
+        "rawValue": 158.2899932861328,
+        "change": -1.78,
+        "prevClose": 161.16000366210938
       }
     ],
     "source": "Yahoo Finance"
