@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-26T11:12:52.244Z",
+  "lastUpdate": "2026-07-26T12:58:06.683Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -267,10 +267,10 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "51711.65",
-        "rawValue": 51711.6484375,
-        "change": -0.97,
-        "prevClose": 52218.578125
+        "value": "51947.25",
+        "rawValue": 51947.25,
+        "change": 0.46,
+        "prevClose": 51711.6484375
       },
       {
         "name": "DXY",
