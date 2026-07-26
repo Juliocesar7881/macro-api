@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-26T05:22:04.934Z",
+  "lastUpdate": "2026-07-26T08:08:13.975Z",
   "nextMeetings": [
     {
       "date": "2026-07-29",
@@ -267,10 +267,10 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "51947.25",
-        "rawValue": 51947.25,
-        "change": 0.46,
-        "prevClose": 51711.6484375
+        "value": "51711.65",
+        "rawValue": 51711.6484375,
+        "change": -0.97,
+        "prevClose": 52218.578125
       },
       {
         "name": "DXY",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "101.47",
-        "rawValue": 101.47000122070312,
-        "change": 0.04,
-        "prevClose": 101.43000030517578
+        "value": "101.43",
+        "rawValue": 101.43000030517578,
+        "change": 0.29,
+        "prevClose": 101.13999938964844
       },
       {
         "name": "EUR/USD",
@@ -303,10 +303,10 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "18.58",
-        "rawValue": 18.579999923706055,
-        "change": -0.64,
-        "prevClose": 18.700000762939453
+        "value": "18.70",
+        "rawValue": 18.700000762939453,
+        "change": 12.38,
+        "prevClose": 16.639999389648438
       },
       {
         "name": "Ouro",
@@ -411,10 +411,10 @@
         "iconClass": "fas fa-building",
         "symbol": "MSTR",
         "category": "stocks",
-        "value": "$91.67",
-        "rawValue": 91.66999816894531,
-        "change": -2.09,
-        "prevClose": 93.62999725341797
+        "value": "$93.63",
+        "rawValue": 93.62999725341797,
+        "change": -6.38,
+        "prevClose": 100.01000213623047
       },
       {
         "name": "Coinbase",
