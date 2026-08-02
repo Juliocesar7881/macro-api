@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-08-01T22:45:07.400Z",
+  "lastUpdate": "2026-08-02T01:50:35.944Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
       "label": "15-16 Set 2026",
       "time": "16:00",
-      "daysUntil": 46
+      "daysUntil": 45
     },
     {
       "date": "2026-11-04",
       "label": "3-4 Nov 2026",
       "time": "16:00",
-      "daysUntil": 95
+      "daysUntil": 94
     },
     {
       "date": "2026-12-16",
       "label": "15-16 Dez 2026",
       "time": "16:00",
-      "daysUntil": 137
+      "daysUntil": 136
     }
   ],
   "fedRate": {
