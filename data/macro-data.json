@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-14T21:50:40.715Z",
+  "lastUpdate": "2026-08-14T22:24:39.562Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -48,9 +48,9 @@
     "source": "Última decisão FOMC (Dezembro 2025)"
   },
   "probabilities": {
-    "cut": 30,
-    "hold": 60,
-    "hike": 10,
+    "cut": 32,
+    "hold": 63,
+    "hike": 5,
     "source": "Treasury Futures (estimativa)"
   },
   "calendar": {
@@ -293,8 +293,8 @@
         "category": "forex",
         "value": "1.1573",
         "rawValue": 1.157273530960083,
-        "change": 0.32,
-        "prevClose": 1.1535356044769287
+        "change": 0.37,
+        "prevClose": 1.1530035734176636
       },
       {
         "name": "VIX",
