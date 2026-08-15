@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-15T02:09:19.558Z",
+  "lastUpdate": "2026-08-15T02:44:08.157Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -293,8 +293,8 @@
         "category": "forex",
         "value": "1.1573",
         "rawValue": 1.157273530960083,
-        "change": 0.32,
-        "prevClose": 1.1535356044769287
+        "change": 0.37,
+        "prevClose": 1.1530035734176636
       },
       {
         "name": "VIX",
