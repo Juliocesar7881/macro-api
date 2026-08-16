@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-16T02:51:49.558Z",
+  "lastUpdate": "2026-08-16T04:25:33.586Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -293,8 +293,8 @@
         "category": "forex",
         "value": "1.1573",
         "rawValue": 1.157273530960083,
-        "change": 0.32,
-        "prevClose": 1.1535356044769287
+        "change": 0.37,
+        "prevClose": 1.1530035734176636
       },
       {
         "name": "VIX",
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4380.40",
-        "rawValue": 4380.39990234375,
-        "change": 0.38,
+        "value": "$4437.30",
+        "rawValue": 4437.2998046875,
+        "change": 1.69,
         "prevClose": 4363.60009765625
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$64.99",
-        "rawValue": 64.98799896240234,
-        "change": 0.18,
+        "value": "$65.11",
+        "rawValue": 65.10800170898438,
+        "change": 0.36,
         "prevClose": 64.87300109863281
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.60",
-        "rawValue": 6.5995001792907715,
-        "change": 0.11,
+        "value": "$6.61",
+        "rawValue": 6.61299991607666,
+        "change": 0.31,
         "prevClose": 6.59250020980835
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1750.00",
-        "rawValue": 1750,
-        "change": 1.44,
+        "value": "$1756.90",
+        "rawValue": 1756.9000244140625,
+        "change": 1.84,
         "prevClose": 1725.199951171875
       },
       {
