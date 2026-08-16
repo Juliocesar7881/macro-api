@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-16T10:12:50.762Z",
+  "lastUpdate": "2026-08-16T12:18:44.486Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -48,9 +48,9 @@
     "source": "Última decisão FOMC (Dezembro 2025)"
   },
   "probabilities": {
-    "cut": 32,
-    "hold": 63,
-    "hike": 5,
+    "cut": 30,
+    "hold": 60,
+    "hike": 10,
     "source": "Treasury Futures (estimativa)"
   },
   "calendar": {
