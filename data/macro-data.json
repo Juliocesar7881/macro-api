@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-18T23:23:04.315Z",
+  "lastUpdate": "2026-08-18T23:47:30.714Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1581",
-        "rawValue": 1.158077597618103,
-        "change": -0.02,
+        "value": "1.1578",
+        "rawValue": 1.1578094959259033,
+        "change": -0.04,
         "prevClose": 1.1582788228988647
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4386.60",
-        "rawValue": 4386.60009765625,
-        "change": -0.71,
+        "value": "$4382.30",
+        "rawValue": 4382.2998046875,
+        "change": -0.8,
         "prevClose": 4417.7998046875
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$63.19",
-        "rawValue": 63.19499969482422,
-        "change": -4.43,
+        "value": "$62.85",
+        "rawValue": 62.85499954223633,
+        "change": -4.94,
         "prevClose": 66.12100219726562
       },
       {
@@ -340,8 +340,8 @@
         "symbol": "HG=F",
         "category": "commodities",
         "value": "$6.45",
-        "rawValue": 6.447999954223633,
-        "change": -2.36,
+        "rawValue": 6.446000099182129,
+        "change": -2.39,
         "prevClose": 6.604000091552734
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1715.00",
-        "rawValue": 1715,
-        "change": -3.73,
+        "value": "$1713.20",
+        "rawValue": 1713.199951171875,
+        "change": -3.83,
         "prevClose": 1781.5
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$84.49",
-        "rawValue": 84.48999786376953,
-        "change": -0.01,
+        "value": "$84.48",
+        "rawValue": 84.4800033569336,
+        "change": -0.02,
         "prevClose": 84.5
       },
       {
