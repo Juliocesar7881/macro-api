@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-23T12:18:57.442Z",
+  "lastUpdate": "2026-08-23T14:13:23.565Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -365,8 +365,8 @@
         "category": "energy",
         "value": "$87.06",
         "rawValue": 87.05999755859375,
-        "change": 0,
-        "prevClose": 87.05999755859375
+        "change": -0.88,
+        "prevClose": 87.83000183105469
       },
       {
         "name": "Gás Natural",
