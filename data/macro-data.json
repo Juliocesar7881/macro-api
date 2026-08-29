@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-29T04:48:18.021Z",
+  "lastUpdate": "2026-08-29T05:03:07.182Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -303,10 +303,10 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "14.43",
-        "rawValue": 14.430000305175781,
-        "change": -0.55,
-        "prevClose": 14.510000228881836
+        "value": "14.51",
+        "rawValue": 14.510000228881836,
+        "change": -4.6,
+        "prevClose": 15.210000038146973
       },
       {
         "name": "Ouro",
@@ -387,10 +387,10 @@
         "iconClass": "fas fa-percentage",
         "symbol": "%5ETNX",
         "category": "bonds",
-        "value": "4.720%",
-        "rawValue": 4.720000267028809,
-        "change": 1.03,
-        "prevClose": 4.671999931335449
+        "value": "4.672%",
+        "rawValue": 4.671999931335449,
+        "change": 0.17,
+        "prevClose": 4.664000034332275
       },
       {
         "name": "Treasury 30Y",
@@ -399,10 +399,10 @@
         "iconClass": "fas fa-landmark",
         "symbol": "%5ETYX",
         "category": "bonds",
-        "value": "5.206%",
-        "rawValue": 5.206000328063965,
-        "change": 0.29,
-        "prevClose": 5.190999984741211
+        "value": "5.191%",
+        "rawValue": 5.190999984741211,
+        "change": 0.1,
+        "prevClose": 5.185999870300293
       },
       {
         "name": "MicroStrategy",
