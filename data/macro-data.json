@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-29T16:11:40.289Z",
+  "lastUpdate": "2026-08-29T20:09:53.609Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -243,10 +243,10 @@
         "iconClass": "fas fa-chart-line",
         "symbol": "%5EGSPC",
         "category": "indices",
-        "value": "7730.99",
-        "rawValue": 7730.990234375,
-        "change": 0.72,
-        "prevClose": 7675.7001953125
+        "value": "7711.76",
+        "rawValue": 7711.759765625,
+        "change": -0.25,
+        "prevClose": 7730.990234375
       },
       {
         "name": "NASDAQ",
@@ -255,10 +255,10 @@
         "iconClass": "fas fa-microchip",
         "symbol": "%5EIXIC",
         "category": "indices",
-        "value": "26541.35",
-        "rawValue": 26541.349609375,
-        "change": 1.57,
-        "prevClose": 26130.19921875
+        "value": "26402.42",
+        "rawValue": 26402.419921875,
+        "change": -0.52,
+        "prevClose": 26541.349609375
       },
       {
         "name": "Dow Jones",
@@ -267,10 +267,10 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "53569.44",
-        "rawValue": 53569.44140625,
-        "change": 0.2,
-        "prevClose": 53463.87890625
+        "value": "53559.99",
+        "rawValue": 53559.98828125,
+        "change": -0.02,
+        "prevClose": 53569.44140625
       },
       {
         "name": "DXY",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.16",
-        "rawValue": 99.16000366210938,
-        "change": -0.01,
-        "prevClose": 99.16999816894531
+        "value": "99.70",
+        "rawValue": 99.69999694824219,
+        "change": 0.54,
+        "prevClose": 99.16000366210938
       },
       {
         "name": "EUR/USD",
@@ -303,10 +303,10 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "14.51",
-        "rawValue": 14.510000228881836,
-        "change": -4.6,
-        "prevClose": 15.210000038146973
+        "value": "14.43",
+        "rawValue": 14.430000305175781,
+        "change": -0.55,
+        "prevClose": 14.510000228881836
       },
       {
         "name": "Ouro",
@@ -387,10 +387,10 @@
         "iconClass": "fas fa-percentage",
         "symbol": "%5ETNX",
         "category": "bonds",
-        "value": "4.672%",
-        "rawValue": 4.671999931335449,
-        "change": 0.17,
-        "prevClose": 4.664000034332275
+        "value": "4.720%",
+        "rawValue": 4.71999979019165,
+        "change": 1.03,
+        "prevClose": 4.671999931335449
       },
       {
         "name": "Treasury 30Y",
@@ -399,10 +399,10 @@
         "iconClass": "fas fa-landmark",
         "symbol": "%5ETYX",
         "category": "bonds",
-        "value": "5.191%",
-        "rawValue": 5.190999984741211,
-        "change": 0.1,
-        "prevClose": 5.185999870300293
+        "value": "5.206%",
+        "rawValue": 5.205999851226807,
+        "change": 0.29,
+        "prevClose": 5.190999984741211
       },
       {
         "name": "MicroStrategy",
@@ -411,10 +411,10 @@
         "iconClass": "fas fa-building",
         "symbol": "MSTR",
         "category": "stocks",
-        "value": "$137.40",
-        "rawValue": 137.39999389648438,
-        "change": 11.54,
-        "prevClose": 123.19000244140625
+        "value": "$127.31",
+        "rawValue": 127.30999755859375,
+        "change": -7.34,
+        "prevClose": 137.39999389648438
       },
       {
         "name": "Coinbase",
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$190.72",
-        "rawValue": 190.72000122070312,
-        "change": 4.92,
-        "prevClose": 181.77999877929688
+        "value": "$178.64",
+        "rawValue": 178.63999938964844,
+        "change": -6.33,
+        "prevClose": 190.72000122070312
       }
     ],
     "source": "Yahoo Finance"
