@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-30T02:27:27.524Z",
+  "lastUpdate": "2026-08-30T09:34:24.730Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4478.10",
-        "rawValue": 4478.10009765625,
-        "change": -2.85,
+        "value": "$4529.90",
+        "rawValue": 4529.89990234375,
+        "change": -1.73,
         "prevClose": 4609.7001953125
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$67.00",
-        "rawValue": 66.99500274658203,
-        "change": -3.51,
+        "value": "$67.79",
+        "rawValue": 67.78600311279297,
+        "change": -2.37,
         "prevClose": 69.42900085449219
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.56",
-        "rawValue": 6.561999797821045,
-        "change": -0.38,
+        "value": "$6.66",
+        "rawValue": 6.658999919891357,
+        "change": 1.09,
         "prevClose": 6.586999893188477
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1847.60",
-        "rawValue": 1847.5999755859375,
-        "change": 0.12,
+        "value": "$1854.30",
+        "rawValue": 1854.300048828125,
+        "change": 0.49,
         "prevClose": 1845.300048828125
       },
       {
