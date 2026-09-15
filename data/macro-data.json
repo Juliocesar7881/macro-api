@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-15T20:03:10.612Z",
+  "lastUpdate": "2026-09-15T23:04:36.275Z",
   "nextMeetings": [
     {
       "date": "2026-09-16",
@@ -243,8 +243,8 @@
         "iconClass": "fas fa-chart-line",
         "symbol": "%5EGSPC",
         "category": "indices",
-        "value": "7585.76",
-        "rawValue": 7585.759765625,
+        "value": "7585.73",
+        "rawValue": 7585.72998046875,
         "change": -0.45,
         "prevClose": 7619.97998046875
       },
@@ -267,8 +267,8 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "52092.75",
-        "rawValue": 52092.75,
+        "value": "52093.11",
+        "rawValue": 52093.109375,
         "change": -0.63,
         "prevClose": 52421.19921875
       },
@@ -279,9 +279,9 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "99.64",
-        "rawValue": 99.63500213623047,
-        "change": 0.18,
+        "value": "99.61",
+        "rawValue": 99.61199951171875,
+        "change": 0.15,
         "prevClose": 99.45999908447266
       },
       {
@@ -291,10 +291,10 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1543",
-        "rawValue": 1.154334545135498,
-        "change": -0.44,
-        "prevClose": 1.1593934297561646
+        "value": "1.1542",
+        "rawValue": 1.1542012691497803,
+        "change": -0.06,
+        "prevClose": 1.154854416847229
       },
       {
         "name": "VIX",
@@ -303,9 +303,9 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "17.48",
-        "rawValue": 17.479999542236328,
-        "change": 2.22,
+        "value": "17.20",
+        "rawValue": 17.200000762939453,
+        "change": 0.58,
         "prevClose": 17.100000381469727
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4335.80",
-        "rawValue": 4335.7998046875,
-        "change": -0.37,
+        "value": "$4334.10",
+        "rawValue": 4334.10009765625,
+        "change": -0.41,
         "prevClose": 4351.89990234375
       },
       {
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$64.18",
-        "rawValue": 64.17500305175781,
-        "change": 1.04,
+        "value": "$64.30",
+        "rawValue": 64.30000305175781,
+        "change": 1.24,
         "prevClose": 63.51300048828125
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.46",
-        "rawValue": 6.458000183105469,
-        "change": 2.02,
+        "value": "$6.47",
+        "rawValue": 6.46750020980835,
+        "change": 2.17,
         "prevClose": 6.329999923706055
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1781.90",
-        "rawValue": 1781.9000244140625,
-        "change": 0.34,
+        "value": "$1785.40",
+        "rawValue": 1785.4000244140625,
+        "change": 0.53,
         "prevClose": 1775.9000244140625
       },
       {
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$105.79",
-        "rawValue": 105.79000091552734,
-        "change": 4.34,
+        "value": "$105.34",
+        "rawValue": 105.33999633789062,
+        "change": 3.9,
         "prevClose": 101.38999938964844
       },
       {
@@ -376,8 +376,8 @@
         "symbol": "NG=F",
         "category": "energy",
         "value": "$2.94",
-        "rawValue": 2.937000036239624,
-        "change": 1.42,
+        "rawValue": 2.944000005722046,
+        "change": 1.66,
         "prevClose": 2.8959999084472656
       },
       {
