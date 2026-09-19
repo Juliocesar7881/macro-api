@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-19T02:15:33.771Z",
+  "lastUpdate": "2026-09-19T02:33:33.171Z",
   "nextMeetings": [
     {
       "date": "2026-11-04",
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$173.97",
-        "rawValue": 173.97000122070312,
-        "change": 5.75,
-        "prevClose": 164.50999450683594
+        "value": "$194.25",
+        "rawValue": 194.25,
+        "change": 11.66,
+        "prevClose": 173.97000122070312
       }
     ],
     "source": "Yahoo Finance"
