@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-09-18T23:56:52.710Z",
+  "lastUpdate": "2026-09-19T02:15:33.771Z",
   "nextMeetings": [
     {
       "date": "2026-11-04",
       "label": "3-4 Nov 2026",
       "time": "16:00",
-      "daysUntil": 47
+      "daysUntil": 46
     },
     {
       "date": "2026-12-16",
       "label": "15-16 Dez 2026",
       "time": "16:00",
-      "daysUntil": 89
+      "daysUntil": 88
     },
     {
       "date": "2027-01-27",
       "label": "26-27 Jan 2027",
       "time": "16:00",
-      "daysUntil": 131
+      "daysUntil": 130
     }
   ],
   "fedRate": {
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$194.25",
-        "rawValue": 194.25,
-        "change": 11.66,
-        "prevClose": 173.97000122070312
+        "value": "$173.97",
+        "rawValue": 173.97000122070312,
+        "change": 5.75,
+        "prevClose": 164.50999450683594
       }
     ],
     "source": "Yahoo Finance"
