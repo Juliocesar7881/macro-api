@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-24T01:14:01.812Z",
+  "lastUpdate": "2026-09-24T02:33:37.899Z",
   "nextMeetings": [
     {
       "date": "2026-11-04",
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "101.15",
-        "rawValue": 101.15399932861328,
-        "change": 0.72,
-        "prevClose": 100.43000030517578
+        "value": "101.16",
+        "rawValue": 101.16200256347656,
+        "change": 0.06,
+        "prevClose": 101.0999984741211
       },
       {
         "name": "EUR/USD",
@@ -291,9 +291,9 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.1384",
-        "rawValue": 1.1384334564208984,
-        "change": -0.56,
+        "value": "1.1382",
+        "rawValue": 1.1381744146347046,
+        "change": -0.58,
         "prevClose": 1.1447935104370117
       },
       {
@@ -315,9 +315,9 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$4325.70",
-        "rawValue": 4325.7001953125,
-        "change": 0.17,
+        "value": "$4319.30",
+        "rawValue": 4319.2998046875,
+        "change": 0.02,
         "prevClose": 4318.39990234375
       },
       {
@@ -327,10 +327,10 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$64.62",
-        "rawValue": 64.62000274658203,
-        "change": -1.99,
-        "prevClose": 65.93199920654297
+        "value": "$64.47",
+        "rawValue": 64.47000122070312,
+        "change": 0.14,
+        "prevClose": 64.38200378417969
       },
       {
         "name": "Cobre",
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.76",
-        "rawValue": 6.764999866485596,
-        "change": 1.3,
+        "value": "$6.77",
+        "rawValue": 6.769000053405762,
+        "change": 1.36,
         "prevClose": 6.677999973297119
       },
       {
@@ -351,10 +351,10 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1757.10",
-        "rawValue": 1757.0999755859375,
-        "change": -3.59,
-        "prevClose": 1822.5999755859375
+        "value": "$1753.20",
+        "rawValue": 1753.199951171875,
+        "change": 0.43,
+        "prevClose": 1745.699951171875
       },
       {
         "name": "Petróleo WTI",
@@ -363,9 +363,9 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$91.48",
-        "rawValue": 91.4800033569336,
-        "change": -0.74,
+        "value": "$91.52",
+        "rawValue": 91.5199966430664,
+        "change": -0.69,
         "prevClose": 92.16000366210938
       },
       {
@@ -377,8 +377,8 @@
         "category": "energy",
         "value": "$3.18",
         "rawValue": 3.184000015258789,
-        "change": 7.39,
-        "prevClose": 2.9649999141693115
+        "change": 5.33,
+        "prevClose": 3.0230000019073486
       },
       {
         "name": "Treasury 10Y",
@@ -411,10 +411,10 @@
         "iconClass": "fas fa-building",
         "symbol": "MSTR",
         "category": "stocks",
-        "value": "$167.33",
-        "rawValue": 167.3300018310547,
-        "change": -0.69,
-        "prevClose": 168.5
+        "value": "$162.20",
+        "rawValue": 162.1999969482422,
+        "change": -3.07,
+        "prevClose": 167.3300018310547
       },
       {
         "name": "Coinbase",
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$201.07",
-        "rawValue": 201.07000732421875,
-        "change": 0.01,
-        "prevClose": 201.0500030517578
+        "value": "$198.13",
+        "rawValue": 198.1300048828125,
+        "change": -1.46,
+        "prevClose": 201.07000732421875
       }
     ],
     "source": "Yahoo Finance"
