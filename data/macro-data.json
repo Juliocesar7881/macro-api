@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-03T02:55:23.099Z",
+  "lastUpdate": "2026-10-03T03:12:43.647Z",
   "nextMeetings": [
     {
       "date": "2026-11-04",
@@ -267,8 +267,8 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "51176.96",
-        "rawValue": 51176.9609375,
+        "value": "51177.00",
+        "rawValue": 51177,
         "change": 0.49,
         "prevClose": 50926.55859375
       },
@@ -279,8 +279,8 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "101.92",
-        "rawValue": 101.92400360107422,
+        "value": "101.93",
+        "rawValue": 101.93000030517578,
         "change": -0.17,
         "prevClose": 102.0999984741211
       },
