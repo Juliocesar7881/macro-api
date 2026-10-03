@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-10-02T21:56:18.706Z",
+  "lastUpdate": "2026-10-03T01:00:38.816Z",
   "nextMeetings": [
     {
       "date": "2026-11-04",
       "label": "3-4 Nov 2026",
       "time": "16:00",
-      "daysUntil": 33
+      "daysUntil": 32
     },
     {
       "date": "2026-12-16",
       "label": "15-16 Dez 2026",
       "time": "16:00",
-      "daysUntil": 75
+      "daysUntil": 74
     },
     {
       "date": "2027-01-27",
       "label": "26-27 Jan 2027",
       "time": "16:00",
-      "daysUntil": 117
+      "daysUntil": 116
     }
   ],
   "fedRate": {
@@ -411,10 +411,10 @@
         "iconClass": "fas fa-building",
         "symbol": "MSTR",
         "category": "stocks",
-        "value": "$160.01",
-        "rawValue": 160.00999450683594,
-        "change": -0.31,
-        "prevClose": 160.5
+        "value": "$160.50",
+        "rawValue": 160.5,
+        "change": 4.84,
+        "prevClose": 153.08999633789062
       },
       {
         "name": "Coinbase",
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$183.00",
-        "rawValue": 183,
-        "change": -3.32,
-        "prevClose": 189.2899932861328
+        "value": "$189.29",
+        "rawValue": 189.2899932861328,
+        "change": 1.54,
+        "prevClose": 186.41000366210938
       }
     ],
     "source": "Yahoo Finance"
