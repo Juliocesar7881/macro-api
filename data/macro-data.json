@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-11T00:34:33.072Z",
+  "lastUpdate": "2026-10-11T08:00:49.437Z",
   "nextMeetings": [
     {
       "date": "2026-11-04",
@@ -327,9 +327,9 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$60.67",
-        "rawValue": 60.66999816894531,
-        "change": 2.72,
+        "value": "$61.05",
+        "rawValue": 61.04800033569336,
+        "change": 3.36,
         "prevClose": 59.06399917602539
       },
       {
@@ -339,9 +339,9 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$6.64",
-        "rawValue": 6.642499923706055,
-        "change": 1.89,
+        "value": "$6.69",
+        "rawValue": 6.691999912261963,
+        "change": 2.65,
         "prevClose": 6.519000053405762
       },
       {
@@ -351,9 +351,9 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1679.30",
-        "rawValue": 1679.300048828125,
-        "change": 3.3,
+        "value": "$1693.30",
+        "rawValue": 1693.300048828125,
+        "change": 4.16,
         "prevClose": 1625.699951171875
       },
       {
