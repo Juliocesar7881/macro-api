@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-14T00:25:01.709Z",
+  "lastUpdate": "2026-11-14T04:03:33.199Z",
   "nextMeetings": [
     {
       "date": "2026-12-16",
@@ -423,8 +423,8 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$127.64",
-        "rawValue": 127.6449966430664,
+        "value": "$127.65",
+        "rawValue": 127.6500015258789,
         "change": -2.31,
         "prevClose": 130.6699981689453
       }
