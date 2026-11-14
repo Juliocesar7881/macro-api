@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-14T04:03:33.199Z",
+  "lastUpdate": "2026-11-14T04:25:13.092Z",
   "nextMeetings": [
     {
       "date": "2026-12-16",
@@ -267,8 +267,8 @@
         "iconClass": "fas fa-industry",
         "symbol": "%5EDJI",
         "category": "indices",
-        "value": "52347.55",
-        "rawValue": 52347.55078125,
+        "value": "52347.60",
+        "rawValue": 52347.6015625,
         "change": 0.1,
         "prevClose": 52297.08984375
       },
