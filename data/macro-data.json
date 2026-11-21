@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-21T01:09:08.913Z",
+  "lastUpdate": "2026-11-21T04:48:28.034Z",
   "nextMeetings": [
     {
       "date": "2026-12-16",
@@ -411,10 +411,10 @@
         "iconClass": "fas fa-building",
         "symbol": "MSTR",
         "category": "stocks",
-        "value": "$86.13",
-        "rawValue": 86.12999725341797,
-        "change": -4.64,
-        "prevClose": 90.31999969482422
+        "value": "$77.80",
+        "rawValue": 77.80000305175781,
+        "change": -9.67,
+        "prevClose": 86.12999725341797
       },
       {
         "name": "Coinbase",
@@ -423,10 +423,10 @@
         "iconClass": "fas fa-exchange-alt",
         "symbol": "COIN",
         "category": "stocks",
-        "value": "$108.87",
-        "rawValue": 108.87000274658203,
-        "change": -1.48,
-        "prevClose": 110.51000213623047
+        "value": "$101.97",
+        "rawValue": 101.97000122070312,
+        "change": -6.34,
+        "prevClose": 108.87000274658203
       }
     ],
     "source": "Yahoo Finance"
