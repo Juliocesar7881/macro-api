@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-21T05:02:49.407Z",
+  "lastUpdate": "2026-11-21T13:53:41.240Z",
   "nextMeetings": [
     {
       "date": "2026-12-16",
@@ -388,7 +388,7 @@
         "symbol": "%5ETNX",
         "category": "bonds",
         "value": "4.912%",
-        "rawValue": 4.911999702453613,
+        "rawValue": 4.9120001792907715,
         "change": -2.77,
         "prevClose": 5.052000045776367
       },
