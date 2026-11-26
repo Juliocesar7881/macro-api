@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-11-25T21:16:02.687Z",
+  "lastUpdate": "2026-11-26T03:42:15.167Z",
   "nextMeetings": [
     {
       "date": "2026-12-16",
       "label": "15-16 Dez 2026",
       "time": "16:00",
-      "daysUntil": 21
+      "daysUntil": 20
     },
     {
       "date": "2027-01-27",
       "label": "26-27 Jan 2027",
       "time": "16:00",
-      "daysUntil": 63
+      "daysUntil": 62
     },
     {
       "date": "2027-03-17",
       "label": "16-17 Mar 2027",
       "time": "16:00",
-      "daysUntil": 112
+      "daysUntil": 111
     }
   ],
   "fedRate": {
@@ -279,10 +279,10 @@
         "iconClass": "fas fa-dollar-sign",
         "symbol": "DX-Y.NYB",
         "category": "forex",
-        "value": "103.70",
-        "rawValue": 103.7030029296875,
-        "change": -0.1,
-        "prevClose": 103.80999755859375
+        "value": "103.81",
+        "rawValue": 103.80899810791016,
+        "change": 0.13,
+        "prevClose": 103.66999816894531
       },
       {
         "name": "EUR/USD",
@@ -291,10 +291,10 @@
         "iconClass": "fas fa-euro-sign",
         "symbol": "EURUSD=X",
         "category": "forex",
-        "value": "1.0978",
-        "rawValue": 1.0978153944015503,
-        "change": 0.64,
-        "prevClose": 1.090809941291809
+        "value": "1.0960",
+        "rawValue": 1.0960105657577515,
+        "change": -0.02,
+        "prevClose": 1.0962268114089966
       },
       {
         "name": "VIX",
@@ -303,9 +303,9 @@
         "iconClass": "fas fa-bolt",
         "symbol": "%5EVIX",
         "category": "volatility",
-        "value": "28.20",
-        "rawValue": 28.200000762939453,
-        "change": 6.98,
+        "value": "28.29",
+        "rawValue": 28.290000915527344,
+        "change": 7.32,
         "prevClose": 26.360000610351562
       },
       {
@@ -315,10 +315,10 @@
         "iconClass": "fas fa-coins",
         "symbol": "GC=F",
         "category": "commodities",
-        "value": "$3598.60",
-        "rawValue": 3598.60009765625,
-        "change": 1.03,
-        "prevClose": 3561.89990234375
+        "value": "$3603.80",
+        "rawValue": 3603.800048828125,
+        "change": 1.92,
+        "prevClose": 3535.800048828125
       },
       {
         "name": "Prata",
@@ -327,10 +327,10 @@
         "iconClass": "fas fa-ring",
         "symbol": "SI=F",
         "category": "commodities",
-        "value": "$41.32",
-        "rawValue": 41.31999969482422,
-        "change": 1.37,
-        "prevClose": 40.7599983215332
+        "value": "$41.85",
+        "rawValue": 41.85499954223633,
+        "change": 4.5,
+        "prevClose": 40.051998138427734
       },
       {
         "name": "Cobre",
@@ -339,10 +339,10 @@
         "iconClass": "fas fa-cube",
         "symbol": "HG=F",
         "category": "commodities",
-        "value": "$5.48",
-        "rawValue": 5.482500076293945,
-        "change": 2.24,
-        "prevClose": 5.362500190734863
+        "value": "$5.49",
+        "rawValue": 5.487500190734863,
+        "change": 2.91,
+        "prevClose": 5.332499980926514
       },
       {
         "name": "Platina",
@@ -351,10 +351,10 @@
         "iconClass": "fas fa-gem",
         "symbol": "PL=F",
         "category": "commodities",
-        "value": "$1261.70",
-        "rawValue": 1261.699951171875,
-        "change": 0.24,
-        "prevClose": 1258.699951171875
+        "value": "$1285.90",
+        "rawValue": 1285.9000244140625,
+        "change": 3.58,
+        "prevClose": 1241.4000244140625
       },
       {
         "name": "Petróleo WTI",
@@ -363,10 +363,10 @@
         "iconClass": "fas fa-oil-can",
         "symbol": "CL=F",
         "category": "energy",
-        "value": "$84.15",
-        "rawValue": 84.1500015258789,
-        "change": 2.56,
-        "prevClose": 82.05000305175781
+        "value": "$84.32",
+        "rawValue": 84.31999969482422,
+        "change": 0.76,
+        "prevClose": 83.68000030517578
       },
       {
         "name": "Gás Natural",
@@ -376,9 +376,9 @@
         "symbol": "NG=F",
         "category": "energy",
         "value": "$3.68",
-        "rawValue": 3.684000015258789,
-        "change": 10.86,
-        "prevClose": 3.322999954223633
+        "rawValue": 3.680999994277954,
+        "change": 12.6,
+        "prevClose": 3.2690000534057617
       },
       {
         "name": "Treasury 10Y",
